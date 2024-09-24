@@ -1,552 +1,3 @@
-be – olmaq
-"I want to be a doctor" – "Mənim həkim olmaq istəyirəm."
-
-and – və
-"You and I will always be friends." – "Sən və mən həmişə dost olacağıq."
-
-of – -in, -ın
-"Today is the first of November." – "Bu gün noyabrın biridir."
-
-a – bir (hər hansısa)
-"I saw a bear today." – "Mən bu gün bir ayı gördüm."
-
-in – içində, -da, -də
-"She is in her room." – "O, öz otağındadır."
-
-to – -a, -ə
-"Let’s go to the park." – "Gəlin parka gedək."
-
-have – malik olmaq
-"I have a few questions." – "Mənim bir neçə sualım var."
-
-too – də, da
-"I like her too." – "Mən də onu sevirəm."
-
-it – o (cansızlar, heyvanlar üçün)
-"It is a dog." – "O itdir."
-
-I – mən
-"I really like it here." – "Mən buranı həqiqətən xoşlayıram."
-
-that – o, ki
-"That door is open." – "O qapı açıqdır."
-
-for – üçün
-"This letter is for you." – "Bu məktub sənin üçündür."
-
-you – sən, siz
-"You are really nice." – "Sən həqiqətən yaxşısan."
-
-he – o (kişilər üçün)
-"He is my brother." – "O, mənim qardaşımdır."
-
-with – ilə
-"I want to go with you." – "Mən səninlə getmək istəyirəm."
-
-on – üzərində
-"I watch movies on my iPad." – "Mən iPad-ımda filmlər izləyirəm."
-
-do – etmək
-"What will you do now?" – "İndi nə edəcəksən?"
-
-say – demək
-"Can I say something?" – "Mən nəsə deyə bilərəm?"
-
-this – bu
-"This is my favorite cookie." – "Bu mənim sevimli peçenyemdir."
-
-they – onlar
-"They are here!" – "Onlar buradadır!"
-
-at – -da, -də
-"Can you pick me up at the mall?" – "Məni ticarət mərkəzindən götürə bilərsən?"
-
-but – amma
-"I’m sorry but she’s away." – "Üzr istəyirəm, amma o, burada deyil."
-
-we – biz
-"We are going to watch a movie." – "Biz film izləməyə gedirik."
-
-his – onun (kişilər üçün)
-"This is his box." – "Bu onun qutusudur."
-
-from – -dan, -dən
-"This card came from my cousin." – "Bu kart mənim əmim oğlundan gəldi."
-
-that – o, ki
-"That’s a really cool trick!" – "Bu, həqiqətən möhtəşəm bir hiylədir!"
-
-not – deyil
-"That’s not what I want." – "Bu, mənim istədiyim deyil."
-
-can’t – edə bilməmək
-"I can’t open it." – "Mən bunu aça bilmirəm."
-
-won’t – etməmək
-"I won’t open it." – "Mən bunu açmayacağam."
-
-by – tərəfindən, ilə
-"Will you come by and see me?" – "Yanımdan keçib məni görəcəksən?"
-
-she – o (qadınlar üçün)
-"She is very happy." – "O, çox xoşbəxtdir."
-
-or – və ya
-"Do you like blue or yellow?" – "Sən göyü yoxsa sarını sevirsən?"
-
-as – kimi, olaraq
-"Her role as an English teacher is very important." – "Onun ingilis dili müəllimi rolu çox vacibdir."
-
-what – nə
-"What are you thinking of?" – "Nə barədə düşünürsən?"
-
-go – getmək
-"I want to go there." – "Mən ora getmək istəyirəm."
-
-their – onların
-"This is their house." – "Bu onların evidir."
-
-can – edə bilmək
-"What can I do for you?" – "Sənin üçün nə edə bilərəm?"
-
-who – kim
-"Who can help me?" – "Mənə kim kömək edə bilər?"
-
-get – almaq, əldə etmək
-"Can you get me my eyeglasses?" – "Mənim eynəyimi gətirə bilərsən?"
-
-if – əgər
-"What if I fail?" – "Əgər uğursuz olsam, nə olacaq?"
-
-would – edərdim
-"Would you help me out?" – "Mənə kömək edərdinmi?"
-
-her – onun (qadınlar üçün)
-"I have her book." – "Mənim onun kitabım var."
-
-all – hamısı
-"All my favorite books are on this shelf." – "Mənim sevimli kitablarımın hamısı bu rəfdədir."
-
-my – mənim
-"My mom is coming to visit." – "Mənim anam ziyarətə gəlir."
-
-make – etmək, yaratmaq
-"Can we make our projects together?" – "Biz layihələrimizi birlikdə edə bilərikmi?"
-
-about – haqqında
-"What is this movie about?" – "Bu film nə haqqındadır?"
-
-know – bilmək
-"Do you know where this place is?" – "Bu yerin harada olduğunu bilirsənmi?"
-
-will – olacaq
-"I will help you find that place." – "Mən sənə o yeri tapmaqda kömək edəcəyəm."
-
-as – kimi, olaraq
-"As soon as she’s here I’ll talk to her." – "O, burada olan kimi mən onunla danışacağam."
-
-up – yuxarıda
-"I live up in the mountains." – "Mən dağlarda yaşayıram."
-
-one – bir
-"She is one of my English teachers." – "O, mənim ingilis dili müəllimlərimdən biridir."
-
-time – vaxt
-"There was a time I liked to play golf." – "Bir vaxt var idi ki, mən qolf oynamağı sevirdim."
-
-there – orada
-"There are so many things I want to learn." – "Öyrənmək istədiyim çox şey var."
-
-year – il
-"This is the year I’m finally going to learn English." – "Bu il mən nəhayət ingilis dilini öyrənəcəyəm."
-
-so – çox, belə ki
-"I am so sorry." – "Mən çox üzr istəyirəm."
-
-think – düşünmək
-"I think I need to lie down." – "Düşünürəm ki, mən yatmalıyam."
-
-when – nə vaxt
-"When will I see you again?" – "Səni yenidən nə vaxt görəcəyəm?"
-
-which – hansı
-"Which of these slippers are yours?" – "Bu terliklərin hansıları sənindir?"
-
-them – onları
-"Please give this to them." – "Zəhmət olmasa bunu onlara ver."
-
-some – bir az
-"Please give them some of the apples I brought home." – "Zəhmət olmasa, evə gətirdiyim almaqlardan biraz onlara ver."
-
-me – mənə
-"Can you give me some apples?" – "Mənə biraz alma verə bilərsən?"
-
-people – insanlar
-"There are so many people at the mall today." – "Bu gün ticarət mərkəzində çoxlu insan var."
-
-take – götürmək
-"Please take home some of these apples." – "Zəhmət olmasa, bu almaqlardan biraz evə götür."
-
-out – çıxış
-"Please throw the trash out." – "Zəhmət olmasa, zibili çölə at."
-
-into – içəriyə, daxilinə
-"My puppy ran into the woods." – "Mənim balaca itim meşəyə qaçdı."
-
-just – sadəcə, yalnız
-"Just close your eyes." – "Sadəcə gözlərini yum."
-
-see – görmək
-"Did you see that?" – "Bunu gördünmü?"
-
-him – ona (kişilər üçün)
-"I heard him singing earlier." – "Onun əvvəllər oxuduğunu eşitdim."
-
-your – sənin, sizin
-"Your mom is here." – "Sənin anan buradadır."
-
-come – gəlmək
-"Can your mom and dad come to the party?" – "Sənin anan və atan partiyə gələ bilərmi?"
-
-could – edə bilərdim
-"Could you help me with my project?" – "Mənə layihəmlə kömək edə bilərdinmi?"
-
-now – indi
-"I want to watch this now." – "Mən bunu indi izləmək istəyirəm."
-
-my - mənim
-My home is old - Mənim evim köhnədir.
-
-play - oynamaq
-I like to play football - Mən futbol oynamağı sevirəm.
-
-than - daha (nəyəsə)
-I like this cake better than the other one you showed me - Mən bu tortu, göstərdiyin digərindən daha çox bəyənirəm.
-
-like - bəyənmək
-I like this bag better than the other one you showed me - Mən bu çantanı, göstərdiyin digərindən daha çox bəyənirəm.
-
-other - digər
-I like these shoes better than the other ones you showed me - Mən bu ayaqqabıları, göstərdiyin digərlərindən daha çox bəyənirəm.
-
-how - necə
-How do I turn this on? - Bunu necə açım?
-
-then - sonra
-We had breakfast and then we went to church - Biz səhər yeməyi yedik və sonra kilsəyə getdik.
-
-its - onun (cansız varlıq üçün)
-I need to read its manual - Mən onun təlimat kitabçasını oxumalıyam.
-
-our - bizim
-This is our home now - Bu artıq bizim evimizdir.
-
-two - iki
-Two cheeseburgers please - İki çizburqer, zəhmət olmasa.
-
-more - daha çox
-Can I have some more milk shake? - Mən bir az daha süd kokteyli ala bilərəmmi?
-
-these - bu
-Do you like these ribbons? - Bu lentləri bəyənirsənmi?
-
-want - istəmək
-Do you want these ribbons? - Bu lentləri istəyirsənmi?
-
-way - yol
-Can you look this way? - Bu tərəfə baxa bilərsənmi?
-
-look - baxmaq
-Please look this way - Zəhmət olmasa bu tərəfə bax.
-
-first - birinci
-She was my very first teacher - O, mənim ilk müəlliməm idi.
-
-also - həmçinin
-She was also my best friend - O həmçinin mənim ən yaxşı dostum idi.
-
-new - yeni
-I have new shoes - Mənim yeni ayaqqabılarım var.
-
-because - çünki
-I am crying because I’m sad - Mən ağlayıram çünki kədərliyəm.
-
-day - gün
-Today is National Friendship day - Bu gün Milli Dostluq günüdür.
-
-more - daha çox
-I have more stickers at home - Evdə daha çox yapışqanlarım var.
-
-use - istifadə etmək
-How do I use this? - Bunu necə istifadə edim?
-
-no - yox
-There’s no electricity now - İndi elektrik yoxdur.
-
-man - kişi
-There’s a man outside looking for you - Çöldə səni axtaran bir kişi var.
-
-find - tapmaq
-Where can I find rare furniture? - Nadir mebel haradan tapa bilərəm?
-
-here - burada
-My mom is here - Anam buradadır.
-
-thing - şey
-One thing led to another - Bir şey digərinə səbəb oldu.
-
-give - vermək
-Give her these pearls - Ona bu inciləri ver.
-
-many - çox
-We shared many dreams together - Biz çox xəyallar paylaşdıq.
-
-well - yaxşı
-You know me so well - Sən məni çox yaxşı tanıyırsan.
-
-only - yalnız
-You are my only friend here - Burada mənim yeganə dostumsan.
-
-those - o (plural)
-Those boots belong to my friend - O çəkmələr mənim dostuma məxsusdur.
-
-tell - demək
-Can you tell me which way to go? - Mənə hansı yoldan getməli olduğumu deyə bilərsən?
-
-one - bir
-She’s the one he’s been waiting for - O, onun gözlədiyi şəxsdir.
-
-very - çox
-I’m very upset right now - İndi çox üzgünəm.
-
-her - onun (qadın)
-Her grandmother is sick - Onun nənəsi xəstədir.
-
-even - hətta
-She can’t even stand on her own - O, hətta öz başına dayana bilmir.
-
-back - geri
-I’ll be right back - Mən dərhal geri dönəcəyəm.
-
-any - hər hansı
-Have you had any luck on your research? - Araşdırmanızda hər hansı uğurunuz olubmu?
-
-good - yaxşı
-You’re a good person - Sən yaxşı insansan.
-
-woman - qadın
-That woman looks so polished - O qadın çox zərif görünür.
-
-through - vasitəsilə
-Your faith will see you through tough times - İmanın sizi çətin vaxtlardan keçirəcək.
-
-us - biz
-Do you want to go with us? - Bizimlə getmək istəyirsənmi?
-
-life - həyat
-This is the best day of my life - Bu, həyatımın ən yaxşı günüdür.
-
-child - uşaq
-I just saw a child cross the street by herself - Mən elə indicə bir uşağın təkbaşına yolu keçdiyini gördüm.
-
-there - orada
-Did you go there? - Oraya getdinmi?
-
-work - iş
-I have to go to work - Mən işə getməliyəm.
-
-down - aşağı
-Let’s go down - Gəlin aşağı düşək.
-
-may - bilər (icazə vermək)
-You may take your seats - Siz yerlərinizi ala bilərsiniz.
-
-after - sonra
-Let’s have dinner after work - İşdən sonra şam yeməyi yeyək.
-
-should - lazımdır
-Should I buy this dress? - Bu paltarı almalıyammı?
-
-call - zəng etmək
-Call me when you get home okay? - Evə çatanda mənə zəng et, yaxşı?
-
-world - dünya
-I want to travel and see the world - Mən səyahət etmək və dünyanı görmək istəyirəm.
-
-over - bitmək
-I can’t wait for this day to be over - Bu günün bitməsini səbirsizliklə gözləyirəm.
-
-school - məktəb
-My cousin goes to school here - Mənim əmim oğlu burada məktəbə gedir.
-
-still - hələ də
-I still think you should go - Mən hələ də düşünürəm ki, sən getməlisən.
-
-try - cəhd etmək
-Can you try to be nicer to him? - Ona qarşı daha xoş olmaq üçün cəhd edə bilərsənmi?
-
-in - içində
-What’s in that box? - O qutunun içində nə var?
-
-as - kimi
-As soon as I get home I’m going to start watching that series - Evə çatan kimi o seriala baxmağa başlayacağam.
-
-last - son
-This is my last slice of cake I promise! - Bu, mənim son dilim tortumdur, söz verirəm!
-
-ask - soruşmaq
-Can you ask the waiter to bring us some wine? - Qərsondan bizə bir az şərab gətirməsini soruşa bilərsənmi?
-
-need - ehtiyac
-I need some wine tonight! - Bu axşam bir az şəraba ehtiyacım var!
-
-too - də
-I need some wine too! - Mənim də bir az şəraba ehtiyacım var!
-
-feel - hiss etmək
-I feel so tired I just need to relax and unwind - Özümü çox yorğun hiss edirəm, sadəcə rahatlanmağa ehtiyacım var.
-
-three - üç
-I have three sisters - Mənim üç bacım var.
-
-when - nə zaman
-When was the last time you saw them? - Onları son dəfə nə zaman gördün?
-
-state - vəziyyət
-Check out the state of that shed it’s falling apart - O anbarın vəziyyətinə bax, dağılıb gedir.
-
-never - heç vaxt
-I’m never going to drink wine again - Mən heç vaxt yenidən şərab içməyəcəyəm.
-
-become - olmaq
-Over the years we’ve become really close - İllər ərzində biz çox yaxın olduq.
-
-between - arasında
-This is just between you and me - Bu sadəcə səninlə mənim aramda qalır.
-
-high - yüksək
-Give me a high five! - Mənə bir beşlik ver!
-
-really - həqiqətən
-I really like your painting! - Mən sənin rəsmindən həqiqətən xoşum gəlir!
-
-something - bir şey
-I have something for you - Mənim sənin üçün bir şeyim var.
-
-most - ən çox
-She’s the most beautiful girl I’ve ever seen - O, mənim gördüyüm ən gözəl qızdır.
-
-another – digər
-"I’ll have another glass of wine please." - "Mənə başqa bir stəkan şərab gətirin, zəhmət olmasa."
-
-much – çox
-"I love you guys so much." - "Mən sizi çox sevirəm."
-
-family – ailə
-"You are like family to me." - "Siz mənim üçün ailə kimisiniz."
-
-own – öz
-"I want to get my own place." - "Mən öz yerimi almaq istəyirəm."
-
-out – çıxmaq
-"Get out of my room." - "Mənim otağımdan çıx."
-
-leave – tərk etmək
-"I want you to leave." - "Mən istəyirəm ki, sən gedəsən."
-
-put – qoymaq
-"Please put down that book and listen to me." - "Zəhmət olmasa, o kitabı qoy və məni dinlə."
-
-old – köhnə
-"I feel so old!" - "Mən özümü çox yaşlı hiss edirəm!"
-
-while – isə
-"I can wait for you here while you shop." - "Sən alış-veriş edərkən mən burada gözləyə bilərəm."
-
-mean – demək
-"I didn’t mean to sound so angry." - "Mən əsəbi səslənmək istəmirdim."
-
-on – açmaq
-"Can you turn on the lights?" - "Sən işıqları aça bilərsənmi?"
-
-keep – saxlamaq
-"Can we keep the lights on tonight?" - "Bu gecə işıqları açıq saxlaya bilərikmi?"
-
-student – tələbə
-"I’ve always been a diligent student." - "Mən həmişə çalışqan tələbə olmuşam."
-
-why – niyə
-"This is why I don’t go out anymore." - "Bu mənim niyə artıq çölə çıxmadığımın səbəbidir."
-
-let – icazə vermək
-"Why won’t you let him know how you feel?" - "Niyə ona necə hiss etdiyini bildirməsinə icazə vermirsən?"
-
-great – böyük
-"This ice cream place is great for families with kids!" - "Bu dondurma yeri uşaqlı ailələr üçün əladır!"
-
-same – eyni
-"Hey we’re wearing the same shirt!" - "Hey, biz eyni köynəyi geyinmişik!"
-
-big – böyük
-"I have this big crush on Brad Pitt." - "Mənim Brad Pittə böyük bir vurğunluğum var."
-
-group – qrup
-"The group sitting across our table is so noisy." - "Bizim masamızın qarşısında oturan qrup çox səs-küylüdür."
-
-begin – başlamaq
-"Where do I begin with this huge project?" - "Bu böyük layihəyə haradan başlamalıyam?"
-
-seem – görünmək
-"She may seem quiet but she’s really outgoing once you get to know her." - "O sakit görünə bilər, amma onu tanıyandan sonra çox ünsiyyətcil olduğunu görəcəksən."
-
-country – ölkə
-"Japan is such a beautiful country!" - "Yaponiya çox gözəl bir ölkədir!"
-
-help – kömək etmək
-"I need help with my Math homework." - "Mənə riyaziyyat ev tapşırığımda kömək lazımdır."
-
-talk – danışmaq
-"Can we talk in private?" - "Biz şəxsi danışa bilərikmi?"
-
-where – harada
-"Where were you last night?" - "Dünən gecə harada idin?"
-
-turn – çevirmək
-"If only I could turn back time." - "Kaş ki, zamanı geri çevirə bilsəydim."
-
-problem – problem
-"The problem is we think we have plenty of time." - "Problem odur ki, biz çox vaxtımız olduğunu düşünürük."
-
-every – hər
-"Every person has his own big goal to fulfill." - "Hər kəsin həyata keçirilməsi lazım olan böyük bir məqsədi var."
-
-start – başlamaq
-"This is a great way to start learning the English language." - "Bu, ingilis dilini öyrənməyə başlamaq üçün əla bir yoldur."
-
-hand – əl
-"Don’t let go of my hand." - "Əlimi buraxma."
-
-might – bilər
-"This might actually work." - "Bu, həqiqətən işləyə bilər."
-
-American – amerikalı
-"The American culture is so dynamic." - "Amerika mədəniyyəti çox dinamikdir."
-
-show – göstərmək
-"Can you show me how to use this vacuum cleaner?" - "Bu elektrik süpürgəsini necə istifadə etməyi mənə göstərə bilərsən?"
-
-part – hissə
-"This is my favorite part of the movie!" - "Bu, filmin mənim sevdiyim hissəsidir!"
-
-about – haqqında
-"What is the story about?" - "Hekayə nə haqqındadır?"
-
-against – qarşı
-"I am so against domestic abuse!" - "Mən məişət zorakılığına qarşıyam!"
-
-place – yer
-"This place is wonderful!" - "Bu yer möhtəşəmdir!"
-
 over – təkrar
 "She kept saying this over and over again." - "O, bunu dəfələrlə təkrar edirdi."
 
@@ -3003,3 +2454,552 @@ stuff - əşyalar
 
 claim - iddia etmək
 “I claim to be a fast reader but actually I am average.” - “Mən sürətli oxuduğumu iddia edirəm, amma əslində orta səviyyədəyəm.”
+
+be – olmaq
+"I want to be a doctor" – "Mənim həkim olmaq istəyirəm."
+
+and – və
+"You and I will always be friends." – "Sən və mən həmişə dost olacağıq."
+
+of – -in, -ın
+"Today is the first of November." – "Bu gün noyabrın biridir."
+
+a – bir (hər hansısa)
+"I saw a bear today." – "Mən bu gün bir ayı gördüm."
+
+in – içində, -da, -də
+"She is in her room." – "O, öz otağındadır."
+
+to – -a, -ə
+"Let’s go to the park." – "Gəlin parka gedək."
+
+have – malik olmaq
+"I have a few questions." – "Mənim bir neçə sualım var."
+
+too – də, da
+"I like her too." – "Mən də onu sevirəm."
+
+it – o (cansızlar, heyvanlar üçün)
+"It is a dog." – "O itdir."
+
+I – mən
+"I really like it here." – "Mən buranı həqiqətən xoşlayıram."
+
+that – o, ki
+"That door is open." – "O qapı açıqdır."
+
+for – üçün
+"This letter is for you." – "Bu məktub sənin üçündür."
+
+you – sən, siz
+"You are really nice." – "Sən həqiqətən yaxşısan."
+
+he – o (kişilər üçün)
+"He is my brother." – "O, mənim qardaşımdır."
+
+with – ilə
+"I want to go with you." – "Mən səninlə getmək istəyirəm."
+
+on – üzərində
+"I watch movies on my iPad." – "Mən iPad-ımda filmlər izləyirəm."
+
+do – etmək
+"What will you do now?" – "İndi nə edəcəksən?"
+
+say – demək
+"Can I say something?" – "Mən nəsə deyə bilərəm?"
+
+this – bu
+"This is my favorite cookie." – "Bu mənim sevimli peçenyemdir."
+
+they – onlar
+"They are here!" – "Onlar buradadır!"
+
+at – -da, -də
+"Can you pick me up at the mall?" – "Məni ticarət mərkəzindən götürə bilərsən?"
+
+but – amma
+"I’m sorry but she’s away." – "Üzr istəyirəm, amma o, burada deyil."
+
+we – biz
+"We are going to watch a movie." – "Biz film izləməyə gedirik."
+
+his – onun (kişilər üçün)
+"This is his box." – "Bu onun qutusudur."
+
+from – -dan, -dən
+"This card came from my cousin." – "Bu kart mənim əmim oğlundan gəldi."
+
+that – o, ki
+"That’s a really cool trick!" – "Bu, həqiqətən möhtəşəm bir hiylədir!"
+
+not – deyil
+"That’s not what I want." – "Bu, mənim istədiyim deyil."
+
+can’t – edə bilməmək
+"I can’t open it." – "Mən bunu aça bilmirəm."
+
+won’t – etməmək
+"I won’t open it." – "Mən bunu açmayacağam."
+
+by – tərəfindən, ilə
+"Will you come by and see me?" – "Yanımdan keçib məni görəcəksən?"
+
+she – o (qadınlar üçün)
+"She is very happy." – "O, çox xoşbəxtdir."
+
+or – və ya
+"Do you like blue or yellow?" – "Sən göyü yoxsa sarını sevirsən?"
+
+as – kimi, olaraq
+"Her role as an English teacher is very important." – "Onun ingilis dili müəllimi rolu çox vacibdir."
+
+what – nə
+"What are you thinking of?" – "Nə barədə düşünürsən?"
+
+go – getmək
+"I want to go there." – "Mən ora getmək istəyirəm."
+
+their – onların
+"This is their house." – "Bu onların evidir."
+
+can – edə bilmək
+"What can I do for you?" – "Sənin üçün nə edə bilərəm?"
+
+who – kim
+"Who can help me?" – "Mənə kim kömək edə bilər?"
+
+get – almaq, əldə etmək
+"Can you get me my eyeglasses?" – "Mənim eynəyimi gətirə bilərsən?"
+
+if – əgər
+"What if I fail?" – "Əgər uğursuz olsam, nə olacaq?"
+
+would – edərdim
+"Would you help me out?" – "Mənə kömək edərdinmi?"
+
+her – onun (qadınlar üçün)
+"I have her book." – "Mənim onun kitabım var."
+
+all – hamısı
+"All my favorite books are on this shelf." – "Mənim sevimli kitablarımın hamısı bu rəfdədir."
+
+my – mənim
+"My mom is coming to visit." – "Mənim anam ziyarətə gəlir."
+
+make – etmək, yaratmaq
+"Can we make our projects together?" – "Biz layihələrimizi birlikdə edə bilərikmi?"
+
+about – haqqında
+"What is this movie about?" – "Bu film nə haqqındadır?"
+
+know – bilmək
+"Do you know where this place is?" – "Bu yerin harada olduğunu bilirsənmi?"
+
+will – olacaq
+"I will help you find that place." – "Mən sənə o yeri tapmaqda kömək edəcəyəm."
+
+as – kimi, olaraq
+"As soon as she’s here I’ll talk to her." – "O, burada olan kimi mən onunla danışacağam."
+
+up – yuxarıda
+"I live up in the mountains." – "Mən dağlarda yaşayıram."
+
+one – bir
+"She is one of my English teachers." – "O, mənim ingilis dili müəllimlərimdən biridir."
+
+time – vaxt
+"There was a time I liked to play golf." – "Bir vaxt var idi ki, mən qolf oynamağı sevirdim."
+
+there – orada
+"There are so many things I want to learn." – "Öyrənmək istədiyim çox şey var."
+
+year – il
+"This is the year I’m finally going to learn English." – "Bu il mən nəhayət ingilis dilini öyrənəcəyəm."
+
+so – çox, belə ki
+"I am so sorry." – "Mən çox üzr istəyirəm."
+
+think – düşünmək
+"I think I need to lie down." – "Düşünürəm ki, mən yatmalıyam."
+
+when – nə vaxt
+"When will I see you again?" – "Səni yenidən nə vaxt görəcəyəm?"
+
+which – hansı
+"Which of these slippers are yours?" – "Bu terliklərin hansıları sənindir?"
+
+them – onları
+"Please give this to them." – "Zəhmət olmasa bunu onlara ver."
+
+some – bir az
+"Please give them some of the apples I brought home." – "Zəhmət olmasa, evə gətirdiyim almaqlardan biraz onlara ver."
+
+me – mənə
+"Can you give me some apples?" – "Mənə biraz alma verə bilərsən?"
+
+people – insanlar
+"There are so many people at the mall today." – "Bu gün ticarət mərkəzində çoxlu insan var."
+
+take – götürmək
+"Please take home some of these apples." – "Zəhmət olmasa, bu almaqlardan biraz evə götür."
+
+out – çıxış
+"Please throw the trash out." – "Zəhmət olmasa, zibili çölə at."
+
+into – içəriyə, daxilinə
+"My puppy ran into the woods." – "Mənim balaca itim meşəyə qaçdı."
+
+just – sadəcə, yalnız
+"Just close your eyes." – "Sadəcə gözlərini yum."
+
+see – görmək
+"Did you see that?" – "Bunu gördünmü?"
+
+him – ona (kişilər üçün)
+"I heard him singing earlier." – "Onun əvvəllər oxuduğunu eşitdim."
+
+your – sənin, sizin
+"Your mom is here." – "Sənin anan buradadır."
+
+come – gəlmək
+"Can your mom and dad come to the party?" – "Sənin anan və atan partiyə gələ bilərmi?"
+
+could – edə bilərdim
+"Could you help me with my project?" – "Mənə layihəmlə kömək edə bilərdinmi?"
+
+now – indi
+"I want to watch this now." – "Mən bunu indi izləmək istəyirəm."
+
+my - mənim
+My home is old - Mənim evim köhnədir.
+
+play - oynamaq
+I like to play football - Mən futbol oynamağı sevirəm.
+
+than - daha (nəyəsə)
+I like this cake better than the other one you showed me - Mən bu tortu, göstərdiyin digərindən daha çox bəyənirəm.
+
+like - bəyənmək
+I like this bag better than the other one you showed me - Mən bu çantanı, göstərdiyin digərindən daha çox bəyənirəm.
+
+other - digər
+I like these shoes better than the other ones you showed me - Mən bu ayaqqabıları, göstərdiyin digərlərindən daha çox bəyənirəm.
+
+how - necə
+How do I turn this on? - Bunu necə açım?
+
+then - sonra
+We had breakfast and then we went to church - Biz səhər yeməyi yedik və sonra kilsəyə getdik.
+
+its - onun (cansız varlıq üçün)
+I need to read its manual - Mən onun təlimat kitabçasını oxumalıyam.
+
+our - bizim
+This is our home now - Bu artıq bizim evimizdir.
+
+two - iki
+Two cheeseburgers please - İki çizburqer, zəhmət olmasa.
+
+more - daha çox
+Can I have some more milk shake? - Mən bir az daha süd kokteyli ala bilərəmmi?
+
+these - bu
+Do you like these ribbons? - Bu lentləri bəyənirsənmi?
+
+want - istəmək
+Do you want these ribbons? - Bu lentləri istəyirsənmi?
+
+way - yol
+Can you look this way? - Bu tərəfə baxa bilərsənmi?
+
+look - baxmaq
+Please look this way - Zəhmət olmasa bu tərəfə bax.
+
+first - birinci
+She was my very first teacher - O, mənim ilk müəlliməm idi.
+
+also - həmçinin
+She was also my best friend - O həmçinin mənim ən yaxşı dostum idi.
+
+new - yeni
+I have new shoes - Mənim yeni ayaqqabılarım var.
+
+because - çünki
+I am crying because I’m sad - Mən ağlayıram çünki kədərliyəm.
+
+day - gün
+Today is National Friendship day - Bu gün Milli Dostluq günüdür.
+
+more - daha çox
+I have more stickers at home - Evdə daha çox yapışqanlarım var.
+
+use - istifadə etmək
+How do I use this? - Bunu necə istifadə edim?
+
+no - yox
+There’s no electricity now - İndi elektrik yoxdur.
+
+man - kişi
+There’s a man outside looking for you - Çöldə səni axtaran bir kişi var.
+
+find - tapmaq
+Where can I find rare furniture? - Nadir mebel haradan tapa bilərəm?
+
+here - burada
+My mom is here - Anam buradadır.
+
+thing - şey
+One thing led to another - Bir şey digərinə səbəb oldu.
+
+give - vermək
+Give her these pearls - Ona bu inciləri ver.
+
+many - çox
+We shared many dreams together - Biz çox xəyallar paylaşdıq.
+
+well - yaxşı
+You know me so well - Sən məni çox yaxşı tanıyırsan.
+
+only - yalnız
+You are my only friend here - Burada mənim yeganə dostumsan.
+
+those - o (plural)
+Those boots belong to my friend - O çəkmələr mənim dostuma məxsusdur.
+
+tell - demək
+Can you tell me which way to go? - Mənə hansı yoldan getməli olduğumu deyə bilərsən?
+
+one - bir
+She’s the one he’s been waiting for - O, onun gözlədiyi şəxsdir.
+
+very - çox
+I’m very upset right now - İndi çox üzgünəm.
+
+her - onun (qadın)
+Her grandmother is sick - Onun nənəsi xəstədir.
+
+even - hətta
+She can’t even stand on her own - O, hətta öz başına dayana bilmir.
+
+back - geri
+I’ll be right back - Mən dərhal geri dönəcəyəm.
+
+any - hər hansı
+Have you had any luck on your research? - Araşdırmanızda hər hansı uğurunuz olubmu?
+
+good - yaxşı
+You’re a good person - Sən yaxşı insansan.
+
+woman - qadın
+That woman looks so polished - O qadın çox zərif görünür.
+
+through - vasitəsilə
+Your faith will see you through tough times - İmanın sizi çətin vaxtlardan keçirəcək.
+
+us - biz
+Do you want to go with us? - Bizimlə getmək istəyirsənmi?
+
+life - həyat
+This is the best day of my life - Bu, həyatımın ən yaxşı günüdür.
+
+child - uşaq
+I just saw a child cross the street by herself - Mən elə indicə bir uşağın təkbaşına yolu keçdiyini gördüm.
+
+there - orada
+Did you go there? - Oraya getdinmi?
+
+work - iş
+I have to go to work - Mən işə getməliyəm.
+
+down - aşağı
+Let’s go down - Gəlin aşağı düşək.
+
+may - bilər (icazə vermək)
+You may take your seats - Siz yerlərinizi ala bilərsiniz.
+
+after - sonra
+Let’s have dinner after work - İşdən sonra şam yeməyi yeyək.
+
+should - lazımdır
+Should I buy this dress? - Bu paltarı almalıyammı?
+
+call - zəng etmək
+Call me when you get home okay? - Evə çatanda mənə zəng et, yaxşı?
+
+world - dünya
+I want to travel and see the world - Mən səyahət etmək və dünyanı görmək istəyirəm.
+
+over - bitmək
+I can’t wait for this day to be over - Bu günün bitməsini səbirsizliklə gözləyirəm.
+
+school - məktəb
+My cousin goes to school here - Mənim əmim oğlu burada məktəbə gedir.
+
+still - hələ də
+I still think you should go - Mən hələ də düşünürəm ki, sən getməlisən.
+
+try - cəhd etmək
+Can you try to be nicer to him? - Ona qarşı daha xoş olmaq üçün cəhd edə bilərsənmi?
+
+in - içində
+What’s in that box? - O qutunun içində nə var?
+
+as - kimi
+As soon as I get home I’m going to start watching that series - Evə çatan kimi o seriala baxmağa başlayacağam.
+
+last - son
+This is my last slice of cake I promise! - Bu, mənim son dilim tortumdur, söz verirəm!
+
+ask - soruşmaq
+Can you ask the waiter to bring us some wine? - Qərsondan bizə bir az şərab gətirməsini soruşa bilərsənmi?
+
+need - ehtiyac
+I need some wine tonight! - Bu axşam bir az şəraba ehtiyacım var!
+
+too - də
+I need some wine too! - Mənim də bir az şəraba ehtiyacım var!
+
+feel - hiss etmək
+I feel so tired I just need to relax and unwind - Özümü çox yorğun hiss edirəm, sadəcə rahatlanmağa ehtiyacım var.
+
+three - üç
+I have three sisters - Mənim üç bacım var.
+
+when - nə zaman
+When was the last time you saw them? - Onları son dəfə nə zaman gördün?
+
+state - vəziyyət
+Check out the state of that shed it’s falling apart - O anbarın vəziyyətinə bax, dağılıb gedir.
+
+never - heç vaxt
+I’m never going to drink wine again - Mən heç vaxt yenidən şərab içməyəcəyəm.
+
+become - olmaq
+Over the years we’ve become really close - İllər ərzində biz çox yaxın olduq.
+
+between - arasında
+This is just between you and me - Bu sadəcə səninlə mənim aramda qalır.
+
+high - yüksək
+Give me a high five! - Mənə bir beşlik ver!
+
+really - həqiqətən
+I really like your painting! - Mən sənin rəsmindən həqiqətən xoşum gəlir!
+
+something - bir şey
+I have something for you - Mənim sənin üçün bir şeyim var.
+
+most - ən çox
+She’s the most beautiful girl I’ve ever seen - O, mənim gördüyüm ən gözəl qızdır.
+
+another – digər
+"I’ll have another glass of wine please." - "Mənə başqa bir stəkan şərab gətirin, zəhmət olmasa."
+
+much – çox
+"I love you guys so much." - "Mən sizi çox sevirəm."
+
+family – ailə
+"You are like family to me." - "Siz mənim üçün ailə kimisiniz."
+
+own – öz
+"I want to get my own place." - "Mən öz yerimi almaq istəyirəm."
+
+out – çıxmaq
+"Get out of my room." - "Mənim otağımdan çıx."
+
+leave – tərk etmək
+"I want you to leave." - "Mən istəyirəm ki, sən gedəsən."
+
+put – qoymaq
+"Please put down that book and listen to me." - "Zəhmət olmasa, o kitabı qoy və məni dinlə."
+
+old – köhnə
+"I feel so old!" - "Mən özümü çox yaşlı hiss edirəm!"
+
+while – isə
+"I can wait for you here while you shop." - "Sən alış-veriş edərkən mən burada gözləyə bilərəm."
+
+mean – demək
+"I didn’t mean to sound so angry." - "Mən əsəbi səslənmək istəmirdim."
+
+on – açmaq
+"Can you turn on the lights?" - "Sən işıqları aça bilərsənmi?"
+
+keep – saxlamaq
+"Can we keep the lights on tonight?" - "Bu gecə işıqları açıq saxlaya bilərikmi?"
+
+student – tələbə
+"I’ve always been a diligent student." - "Mən həmişə çalışqan tələbə olmuşam."
+
+why – niyə
+"This is why I don’t go out anymore." - "Bu mənim niyə artıq çölə çıxmadığımın səbəbidir."
+
+let – icazə vermək
+"Why won’t you let him know how you feel?" - "Niyə ona necə hiss etdiyini bildirməsinə icazə vermirsən?"
+
+great – böyük
+"This ice cream place is great for families with kids!" - "Bu dondurma yeri uşaqlı ailələr üçün əladır!"
+
+same – eyni
+"Hey we’re wearing the same shirt!" - "Hey, biz eyni köynəyi geyinmişik!"
+
+big – böyük
+"I have this big crush on Brad Pitt." - "Mənim Brad Pittə böyük bir vurğunluğum var."
+
+group – qrup
+"The group sitting across our table is so noisy." - "Bizim masamızın qarşısında oturan qrup çox səs-küylüdür."
+
+begin – başlamaq
+"Where do I begin with this huge project?" - "Bu böyük layihəyə haradan başlamalıyam?"
+
+seem – görünmək
+"She may seem quiet but she’s really outgoing once you get to know her." - "O sakit görünə bilər, amma onu tanıyandan sonra çox ünsiyyətcil olduğunu görəcəksən."
+
+country – ölkə
+"Japan is such a beautiful country!" - "Yaponiya çox gözəl bir ölkədir!"
+
+help – kömək etmək
+"I need help with my Math homework." - "Mənə riyaziyyat ev tapşırığımda kömək lazımdır."
+
+talk – danışmaq
+"Can we talk in private?" - "Biz şəxsi danışa bilərikmi?"
+
+where – harada
+"Where were you last night?" - "Dünən gecə harada idin?"
+
+turn – çevirmək
+"If only I could turn back time." - "Kaş ki, zamanı geri çevirə bilsəydim."
+
+problem – problem
+"The problem is we think we have plenty of time." - "Problem odur ki, biz çox vaxtımız olduğunu düşünürük."
+
+every – hər
+"Every person has his own big goal to fulfill." - "Hər kəsin həyata keçirilməsi lazım olan böyük bir məqsədi var."
+
+start – başlamaq
+"This is a great way to start learning the English language." - "Bu, ingilis dilini öyrənməyə başlamaq üçün əla bir yoldur."
+
+hand – əl
+"Don’t let go of my hand." - "Əlimi buraxma."
+
+might – bilər
+"This might actually work." - "Bu, həqiqətən işləyə bilər."
+
+American – amerikalı
+"The American culture is so dynamic." - "Amerika mədəniyyəti çox dinamikdir."
+
+show – göstərmək
+"Can you show me how to use this vacuum cleaner?" - "Bu elektrik süpürgəsini necə istifadə etməyi mənə göstərə bilərsən?"
+
+part – hissə
+"This is my favorite part of the movie!" - "Bu, filmin mənim sevdiyim hissəsidir!"
+
+about – haqqında
+"What is the story about?" - "Hekayə nə haqqındadır?"
+
+against – qarşı
+"I am so against domestic abuse!" - "Mən məişət zorakılığına qarşıyam!"
+
+place – yer
+"This place is wonderful!" - "Bu yer möhtəşəmdir!"
