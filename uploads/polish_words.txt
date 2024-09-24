@@ -1,308 +1,3 @@
-ileż - nə qədər də (gözəlsən)
-żeby - ötrü ki,
-sklep - market
-nic - heç nə
-nikt - heç kim
-bać się - qorxmaq
-pająk - hörümçək
-cukier - şəkər
-pić - içmək
-trochę - bir az
-pierdolić - to fuck
-ciekawy - maraqlı
-naprawdę - həqiqətən
-podobać się - bəyənmək
-szybki - sürətli
-gorszy - çox pis
-dwadzieścia - iyirmi (20)
-trzydzieści - otuz (30)
-tysiąc - min
-zeszyt - dəftər
-jedenaście - on bir (11)
-drugi - ikinci
-czwarty - dördüncü
-siódmy - yeddinci
-trzeci - üçüncü
-jedenasty - on birinci (11ci)
-pan - cənab
-owszem - bəli (formal)
-też - həmçinin
-oczywiście - əlbəttə
-powodzenia - uğurlar!
-witamy - Xoş gəlmisiniz
-gotować - yemək hazırlamaq
-woleć - tərcih etmək
-myć - yumaq
-palić - (siqaret) çəkmək
-dotykać - toxunmaq
-szanować - hörmət etmək
-badać - sınaqdan keçirmək
-chować - gizlətmək
-kroić - kəsmək
-istnieć - mövcud olmaq
-marzyć - arzulamaq
-pensja - maaş
-płynąć - üzmək
-odpoczywać - dincəlmək
-'podróż'ować - 'səyahət' etmək
-wczoraj - dünən
-często - tez-tez
-wszędzie - hər yer
-całkowicie - tamamilə
-rzadko - nadirən
-dokładny - dəqiq
-jutro - sabah (tomorrow)
-czasami - bəzən
-dość - kifayət qədər
-po'wolny' - 'yavaş'
-rano - səhər
-ząb, 'zęby' - diş, 'dişlər'
-niż, od - daha (than)
-spacer - gəzinti
-ser - pendir
-chory - xəstə
-zakupy - alış-veriş
-gdy - nə zaman ki
-choć, mimo że - baxmayaraq (ki)
-wcale się - heç (qorxmadım)
-aby, żeby - ondan ötrü ki,
-herbata - çay
-ani - nə də
-gardło - boğaz (anatomik)
-padać - yağmaq (qar, yağış), düşmək
-przed - əvvəl, qabağında (yam)
-od - /dan,dən ,bəri
-przy - yanında, /da,də
-między - arasında
-fotel - kreslo
-łóżko - kravat, yataq
-wobec - dair, qarşı
-pomimo - baxmayaraq, əksinə
-podczas - ərzində
-zamiast - əksinə
-chmura - bulud
-drzewo - ağac
-martwić się - narahat olmaq
-zachowanie - davranış, hərəkət
-podstaw - təməl (i binanın)
-podjąć decyzję - qərar vermək
-jedzenie - yemək
-dziewięć - doqquz (9)
-dziesięć - on (10)
-ogólny - ümumi
-sposób postępowania - prosedurlar
-postępować - irəliləmək
-ładunek - yük (kargo)
-dodatkowo - əlavə olaraq
-obowiązek - vəzifə, məsuliyyət
-powyższy - yuxarıdakı
-wykonywać - icra etmək, həyata keçirmək
-czynność - fəaliyyət
-że - ki
-zwolnić - buraxmaq, azad etmək
-mieć miejsce - baş tutmaq
-wyłącznie - yalnızca, sadəcə
-kamizelka - yelek (jiletka)
-oraz - və
-wejść+ ie - girmək+ giriş
-kolejność - sıra
-odpowiedni - uyğun (bu şərtə)
-z wyprzedzenim - əvvəlcədən
-obie - hər ikisi
-umowa - müqavilə
-zaawansować - bildirmək
-bieżący - hazırki (vəziyyət)
-zależeć od - asılı olmaq
-wraz z - yanısıra, yanaşı
-egzemplarz - nüsxə (/si sənədin)
-posiada+ć+nie - sahib olma + q
-upasza się - təkid etmək
-wymagać - tələb etmək
-zwrot - iade, geri vermə
-świadczyć usługa - ...xidməti göstərmək
-uczestniczyć - iştirak etmək
-przy - /da,də , yanında
-czynny - aktiv
-nudny - darıxdırıcı
-niezwłocznie - dərhal
-brama - darvaza
-należy - gərəkli, vacib
-odbywać się - baş tutmaq
-udać się - getmək, müvəffəq olmaq
-jednostka - bölmə (unit)
-wojewoda - valilik (yerli icra hakimiyyəti)
-zezwolenie - icazə
-na 'podstaw'ie - 'əsas'lanaraq
-ustawa - qanun
-rozpatrywać - nəzərdən keçirmək
-wniosek - müraciət
-cudzoziemiec - yabancı
-siedziba - baş ofis, mərkəz
-obywatel - vətəndaş
-stanowisko - pazisiya (işdəki)
-s/pełnić - yerinə yetirmək
-zlecenie - vərdiş, iş
-wymiar - ölçü
-liczba - sayı (əşyaların)
-pół etat - part-time iş
-wynagrodzenie - xidməti haqqı
-okres - dövr, period
-określać - dəqiqləşdirmək (specify)
-spółka - şirkət
-na rzecz - ... adına (üçün)
-pracodawca - iş sahibi (müdir)
-przedmiot, podmiot - mövzu
-uwaga - diqqət
-wioska, wieś - kənd
-mowa - danışıq (speech)
-zdanie - cümlə
-pod + warunek - şərt + ilə
-zatrudnienie - istihdam, məşğulluq
-następny - sonrakı, növbəti
-upoważniać - səlahiyyət vermək
-nawzajem -  bir-birini
-powiadamiać - bildirmək
-zmiana - dəyişiklik
-przejęcie - devralma
-początek - başlanğıc
-przerwać - yarım qoymaq
-przekraczać - aşmaq, ötüb keçmək
-upływać - zamanın keçməsi
-okoliczność - vəziyyət, hal
-obowiązek - məsuliyyət
-obowiązkowy - məcburi
-kara + ć - cəza + landırmaq
-grzywna - cərimə
-odrębny - ayrı, ayrıca
-wymóg - tələb (şərt)
-uzależnienie - asılılıq
-zawód - peşə
-przedłużyć - uzatmaq (müddəti)
-termin - müddət, termin
-odwołać - ləğv etmək
-właściwy - uyğun, əlaqəli
-sprawa - məsələ, mövzu
-doręczać - çatdırmaq
-w trakcie - ərzində, müddətində
-zrzec się - imtina etmək, fikrindən daşınmaq
-brak - əskik
-załącznik - attachment (emaildəki)
-płeć - cinsiyyət
-stan cywilny - mədəni hal
-kawaler/panna - bekar kişi/qadın
-żonaty/zamężna - evli kişi/qadın
-rozwiedziony/a - boşanmış kişi/qadın
-w przypadku - ..olduğu halda, ..duğunda
-trwały, stały - daimi
-tymczasowy - müvəqqəti
-równoważny - ekvivalentində
-kierunek - istiqamət
-służbowy - iş(biznes) ilə əlaqədar
-wizyta - ziyarət (visit)
-urzędowy - rəsmi (oficjalny)
-wygląd - səbəbilə, ..xatir
-przejmować - qəbul etmək (akceptować)
-środek - orta, mərkəz
-ubezpieczenie - siğorta
-'odmów + a' + ić - 'rədd' + etmək
-wiele - çox
-wielokrotny - çox saylı (multiple)
-hasło - şifrə
-będące - mövcud, hazırki (problem)
-dotyczyć - aid olmaq, əlaqədar olmaq
-ogłoszenie - elan
-zapraszać - dəvət etmək
-utrzymanie - yaşayış xərcləri, texniki qulluq
-ubiegać się - barşvuru yapmak
-gotówka - nağd (pul)
-zakwaterowanie - yaşayış (akomodacja)
-pokrycie - örtmək (cover)
-zaświadczenie - sənəd, sertifikat
-statek - gəmi
-łyżka - qaşıq
-kilka - bir neçə (kitab)
-składnik - komponent, malzeme
-jeszcze - hələ, hələ də
-kawałek - parça, hissə
-stowarzyszenie - assosiasiya (təşkilat)
-handel - ticarət
-tożsamość - kimlik
-dowód - sübut (dəlil)
-krewny - qohum
-małżon ek/ka - ər/arvad
-sąd - məhkəmə
-całkowicie - tamamilə
-świadomy - agah, xəbərdar
-zawierać - içərmək, ehtiva etmək
-ukrywać - gizlətmək
-s/powodować - səbəb olmaq
-już - artıq (already)
-opuszczać - tərk etmək
-naby + ć/wać - əldə etmək
-odszkodowanie - təzminat
-skutek - nəticə
-ponownie - təkrarən 
-znowu - yenidən (başlamaq)
-sprawdz + ać/ić - yoxlamaq (check)
-wkraczać - müdaxilə etmək (intervene)
-rozwój - geliştirmə (development)
-rozwijać - geliştirmək (develop)
-niezbędny - əsas (hissə)
-odpowiadać - cavab vermək
-anulować - ləğv etmək
-strona - tərəf, səhifə
-list - məktub
-intencja - niyyət (intent)
-ustępować - baş vermək, meydana gəlmək
-kierować - yönləndirmək
-całkowity - toplam
-nadgodziny - mesai (overtime)
-zapewnić - təmin etmək
-mniej - daha az
-społeczny - sosial
-rozmiescić - yerbəyer etmək (arrange)
-układać - düzmək (yerlərinə)
-wyznaczyć - təyin etmək
-zarząd - idarə heyəti, administrasiya
-północ - şimal, gecəyarısı
-wschód - şərq
-południe - cənub
-zachód - qərb
-budynek - bina
-należeć - məxsus olmaq
-przenaczyć - ayırmaq (yer)
-znajdować się - yerləşmək
-lotnisko - hava limanı
-chętny - istəkli, həvəsli
-rodak - həmyerli
-przedsiębiorca - girşimçi, iş adamı
-doświadczenie - təcrübə (experience)
-powodzenie - müvəffəqiyyət, uğur
-teren - sahə, area
-dworzec - qatar stansiyası
-brzydki - çirkin
-stąd - buradan
-wspaniały - mütəssəm
-aż - qədər (until)
-zbierać - toplamaq (collect)
-ocena - dəyərləndirmə, reytinq
-podkreślać - vurğulamaq
-korzystny - faydalı, sərfəli
-wytrzymywać - dayandırmaq (işi)
-z/wiązać - bağlamaq (ipi)
-działać - çalışma, hərəkət etmək
-uważać - diqqət yetirmək
-iż - ki (bağlayıcı)
-szczegółowy - ətraflı
-(prze)szkolić - tədris etmək (təlim)
-przyszłość - gələcək (zaman)
-rozwiąz + 'anie' / ywać - 'həll' / etmək 
-były - bundan əvvəlki (former)
-lot - uçuş (flight)
-Nie ma za co - dəyməz..
-natychmiast - dərhal
-zjednoczyć - birləşmək
-niestety - təəssüf ki
 państwo - xanım və cənab (Mr. & Mrs.)
 kawiarnia - cafe
 pozdrawiamy - Hörmətlə,...
@@ -938,3 +633,308 @@ pani - xanım
 zmęczony - yorğun
 zabawny - gülməli
 ubranie - geyim
+ileż - nə qədər də (gözəlsən)
+żeby - ötrü ki,
+sklep - market
+nic - heç nə
+nikt - heç kim
+bać się - qorxmaq
+pająk - hörümçək
+cukier - şəkər
+pić - içmək
+trochę - bir az
+pierdolić - to fuck
+ciekawy - maraqlı
+naprawdę - həqiqətən
+podobać się - bəyənmək
+szybki - sürətli
+gorszy - çox pis
+dwadzieścia - iyirmi (20)
+trzydzieści - otuz (30)
+tysiąc - min
+zeszyt - dəftər
+jedenaście - on bir (11)
+drugi - ikinci
+czwarty - dördüncü
+siódmy - yeddinci
+trzeci - üçüncü
+jedenasty - on birinci (11ci)
+pan - cənab
+owszem - bəli (formal)
+też - həmçinin
+oczywiście - əlbəttə
+powodzenia - uğurlar!
+witamy - Xoş gəlmisiniz
+gotować - yemək hazırlamaq
+woleć - tərcih etmək
+myć - yumaq
+palić - (siqaret) çəkmək
+dotykać - toxunmaq
+szanować - hörmət etmək
+badać - sınaqdan keçirmək
+chować - gizlətmək
+kroić - kəsmək
+istnieć - mövcud olmaq
+marzyć - arzulamaq
+pensja - maaş
+płynąć - üzmək
+odpoczywać - dincəlmək
+'podróż'ować - 'səyahət' etmək
+wczoraj - dünən
+często - tez-tez
+wszędzie - hər yer
+całkowicie - tamamilə
+rzadko - nadirən
+dokładny - dəqiq
+jutro - sabah (tomorrow)
+czasami - bəzən
+dość - kifayət qədər
+po'wolny' - 'yavaş'
+rano - səhər
+ząb, 'zęby' - diş, 'dişlər'
+niż, od - daha (than)
+spacer - gəzinti
+ser - pendir
+chory - xəstə
+zakupy - alış-veriş
+gdy - nə zaman ki
+choć, mimo że - baxmayaraq (ki)
+wcale się - heç (qorxmadım)
+aby, żeby - ondan ötrü ki,
+herbata - çay
+ani - nə də
+gardło - boğaz (anatomik)
+padać - yağmaq (qar, yağış), düşmək
+przed - əvvəl, qabağında (yam)
+od - /dan,dən ,bəri
+przy - yanında, /da,də
+między - arasında
+fotel - kreslo
+łóżko - kravat, yataq
+wobec - dair, qarşı
+pomimo - baxmayaraq, əksinə
+podczas - ərzində
+zamiast - əksinə
+chmura - bulud
+drzewo - ağac
+martwić się - narahat olmaq
+zachowanie - davranış, hərəkət
+podstaw - təməl (i binanın)
+podjąć decyzję - qərar vermək
+jedzenie - yemək
+dziewięć - doqquz (9)
+dziesięć - on (10)
+ogólny - ümumi
+sposób postępowania - prosedurlar
+postępować - irəliləmək
+ładunek - yük (kargo)
+dodatkowo - əlavə olaraq
+obowiązek - vəzifə, məsuliyyət
+powyższy - yuxarıdakı
+wykonywać - icra etmək, həyata keçirmək
+czynność - fəaliyyət
+że - ki
+zwolnić - buraxmaq, azad etmək
+mieć miejsce - baş tutmaq
+wyłącznie - yalnızca, sadəcə
+kamizelka - yelek (jiletka)
+oraz - və
+wejść+ ie - girmək+ giriş
+kolejność - sıra
+odpowiedni - uyğun (bu şərtə)
+z wyprzedzenim - əvvəlcədən
+obie - hər ikisi
+umowa - müqavilə
+zaawansować - bildirmək
+bieżący - hazırki (vəziyyət)
+zależeć od - asılı olmaq
+wraz z - yanısıra, yanaşı
+egzemplarz - nüsxə (/si sənədin)
+posiada+ć+nie - sahib olma + q
+upasza się - təkid etmək
+wymagać - tələb etmək
+zwrot - iade, geri vermə
+świadczyć usługa - ...xidməti göstərmək
+uczestniczyć - iştirak etmək
+przy - /da,də , yanında
+czynny - aktiv
+nudny - darıxdırıcı
+niezwłocznie - dərhal
+brama - darvaza
+należy - gərəkli, vacib
+odbywać się - baş tutmaq
+udać się - getmək, müvəffəq olmaq
+jednostka - bölmə (unit)
+wojewoda - valilik (yerli icra hakimiyyəti)
+zezwolenie - icazə
+na 'podstaw'ie - 'əsas'lanaraq
+ustawa - qanun
+rozpatrywać - nəzərdən keçirmək
+wniosek - müraciət
+cudzoziemiec - yabancı
+siedziba - baş ofis, mərkəz
+obywatel - vətəndaş
+stanowisko - pazisiya (işdəki)
+s/pełnić - yerinə yetirmək
+zlecenie - vərdiş, iş
+wymiar - ölçü
+liczba - sayı (əşyaların)
+pół etat - part-time iş
+wynagrodzenie - xidməti haqqı
+okres - dövr, period
+określać - dəqiqləşdirmək (specify)
+spółka - şirkət
+na rzecz - ... adına (üçün)
+pracodawca - iş sahibi (müdir)
+przedmiot, podmiot - mövzu
+uwaga - diqqət
+wioska, wieś - kənd
+mowa - danışıq (speech)
+zdanie - cümlə
+pod + warunek - şərt + ilə
+zatrudnienie - istihdam, məşğulluq
+następny - sonrakı, növbəti
+upoważniać - səlahiyyət vermək
+nawzajem -  bir-birini
+powiadamiać - bildirmək
+zmiana - dəyişiklik
+przejęcie - devralma
+początek - başlanğıc
+przerwać - yarım qoymaq
+przekraczać - aşmaq, ötüb keçmək
+upływać - zamanın keçməsi
+okoliczność - vəziyyət, hal
+obowiązek - məsuliyyət
+obowiązkowy - məcburi
+kara + ć - cəza + landırmaq
+grzywna - cərimə
+odrębny - ayrı, ayrıca
+wymóg - tələb (şərt)
+uzależnienie - asılılıq
+zawód - peşə
+przedłużyć - uzatmaq (müddəti)
+termin - müddət, termin
+odwołać - ləğv etmək
+właściwy - uyğun, əlaqəli
+sprawa - məsələ, mövzu
+doręczać - çatdırmaq
+w trakcie - ərzində, müddətində
+zrzec się - imtina etmək, fikrindən daşınmaq
+brak - əskik
+załącznik - attachment (emaildəki)
+płeć - cinsiyyət
+stan cywilny - mədəni hal
+kawaler/panna - bekar kişi/qadın
+żonaty/zamężna - evli kişi/qadın
+rozwiedziony/a - boşanmış kişi/qadın
+w przypadku - ..olduğu halda, ..duğunda
+trwały, stały - daimi
+tymczasowy - müvəqqəti
+równoważny - ekvivalentində
+kierunek - istiqamət
+służbowy - iş(biznes) ilə əlaqədar
+wizyta - ziyarət (visit)
+urzędowy - rəsmi (oficjalny)
+wygląd - səbəbilə, ..xatir
+przejmować - qəbul etmək (akceptować)
+środek - orta, mərkəz
+ubezpieczenie - siğorta
+'odmów + a' + ić - 'rədd' + etmək
+wiele - çox
+wielokrotny - çox saylı (multiple)
+hasło - şifrə
+będące - mövcud, hazırki (problem)
+dotyczyć - aid olmaq, əlaqədar olmaq
+ogłoszenie - elan
+zapraszać - dəvət etmək
+utrzymanie - yaşayış xərcləri, texniki qulluq
+ubiegać się - barşvuru yapmak
+gotówka - nağd (pul)
+zakwaterowanie - yaşayış (akomodacja)
+pokrycie - örtmək (cover)
+zaświadczenie - sənəd, sertifikat
+statek - gəmi
+łyżka - qaşıq
+kilka - bir neçə (kitab)
+składnik - komponent, malzeme
+jeszcze - hələ, hələ də
+kawałek - parça, hissə
+stowarzyszenie - assosiasiya (təşkilat)
+handel - ticarət
+tożsamość - kimlik
+dowód - sübut (dəlil)
+krewny - qohum
+małżon ek/ka - ər/arvad
+sąd - məhkəmə
+całkowicie - tamamilə
+świadomy - agah, xəbərdar
+zawierać - içərmək, ehtiva etmək
+ukrywać - gizlətmək
+s/powodować - səbəb olmaq
+już - artıq (already)
+opuszczać - tərk etmək
+naby + ć/wać - əldə etmək
+odszkodowanie - təzminat
+skutek - nəticə
+ponownie - təkrarən 
+znowu - yenidən (başlamaq)
+sprawdz + ać/ić - yoxlamaq (check)
+wkraczać - müdaxilə etmək (intervene)
+rozwój - geliştirmə (development)
+rozwijać - geliştirmək (develop)
+niezbędny - əsas (hissə)
+odpowiadać - cavab vermək
+anulować - ləğv etmək
+strona - tərəf, səhifə
+list - məktub
+intencja - niyyət (intent)
+ustępować - baş vermək, meydana gəlmək
+kierować - yönləndirmək
+całkowity - toplam
+nadgodziny - mesai (overtime)
+zapewnić - təmin etmək
+mniej - daha az
+społeczny - sosial
+rozmiescić - yerbəyer etmək (arrange)
+układać - düzmək (yerlərinə)
+wyznaczyć - təyin etmək
+zarząd - idarə heyəti, administrasiya
+północ - şimal, gecəyarısı
+wschód - şərq
+południe - cənub
+zachód - qərb
+budynek - bina
+należeć - məxsus olmaq
+przenaczyć - ayırmaq (yer)
+znajdować się - yerləşmək
+lotnisko - hava limanı
+chętny - istəkli, həvəsli
+rodak - həmyerli
+przedsiębiorca - girşimçi, iş adamı
+doświadczenie - təcrübə (experience)
+powodzenie - müvəffəqiyyət, uğur
+teren - sahə, area
+dworzec - qatar stansiyası
+brzydki - çirkin
+stąd - buradan
+wspaniały - mütəssəm
+aż - qədər (until)
+zbierać - toplamaq (collect)
+ocena - dəyərləndirmə, reytinq
+podkreślać - vurğulamaq
+korzystny - faydalı, sərfəli
+wytrzymywać - dayandırmaq (işi)
+z/wiązać - bağlamaq (ipi)
+działać - çalışma, hərəkət etmək
+uważać - diqqət yetirmək
+iż - ki (bağlayıcı)
+szczegółowy - ətraflı
+(prze)szkolić - tədris etmək (təlim)
+przyszłość - gələcək (zaman)
+rozwiąz + 'anie' / ywać - 'həll' / etmək 
+były - bundan əvvəlki (former)
+lot - uçuş (flight)
+Nie ma za co - dəyməz..
+natychmiast - dərhal
+zjednoczyć - birləşmək
+niestety - təəssüf ki
