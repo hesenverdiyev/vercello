@@ -1,118 +1,3 @@
-państwo - xanım və cənab (Mr. & Mrs.)
-kawiarnia - cafe
-pozdrawiamy - Hörmətlə,...
-aleja - prospekt
-rondo - kruq
-plac - meydan
-małpa - meymun, @ işarəsi
-kropka - nöqtə
-czasownik - fel
-latać - uçmaq
-zwiedzać - gəzmək, etmə
-śpiewać - mahnı oxumaq
-szukać - axtarmaq
-siostra - bacı
-dziadek - baba
-babcia - nənə
-mąż - ər
-żona - arvad
-małżeństwo - evlilik
-wnuczek/ka - nəvə (k/q)
-rzeczownik - isim (qrammatika)
-ciasto - tort
-cebula - soğan
-ziemniak/ kartofel - kartof
-mydło - sabun
-rodzeństwo - bacı-qardaş (sibling)
-głodny - ac
-mięso - ət
-wieprzowina - 'donuz' əti ('świnja')
-miód - bal
-zupa - sup
-złoty - pul vahidi (Polşanın)
-groszy - qəpik
-złoto - qızıl
-napoje - içkilər
-brązowy - qəhvəyi
-pomarańczowy - portağal rəngi
-szary - boz
-zwykle - adətən
-nadal - hələ də
-do zobaczenia - görüşənədək
-byłoby - olardı ...(yaxşı)
-chciałbyś - etmək istəmək (would like)
-zajęty - məşğul
-razem - birlikdə
-wystarczająco - kifayət qədər
-kanapka - sandviç
-kolejny - növbəti
-czemu/dlaczego - niyə?
-przykro mi - təəsüfləndim (xəstələnməyinə)
-mam(mieć) nadzieję - ümid varam...
-prawnik/adwokat - vəkil
-biegły - səlis (fluent)
-facet - oğlan, gənc
-przystojny - yaraşıqlı
-go/jego - onu
-ją- ondan (q)
-kubek - kruşka
-plecak - sərt çantası
-ściana - divar
-spóźnienie - gecikmə
-wysiadać - enmək, çıxmaq (maşından)
-piętro - mərtəbə
-wciąz - hələ də
-orazja - fürsət
-ćwiczyć - məşq etmək (practice)
-opowiadać - söyləmək
-kłamstwo - yalan
-kłamać - yalan danışmaq
-oszuk + ać/iwać - aldatmaq
-zeszły - keçən (il)
-wyglądać na - görünmək (yaraşıqlı)
-wszyscy - hər kəs
-wiek - yaş, əsr
-z nią/nim - onunla (q/k)
-temu - əvvəl (3 il)
-księgowy - mühasib
-poszedł - getdi
-ciesz się - şad olmaq
-jasne! - əlbəttə
-popołudnie - günorta (p.m.)
-przyjęcie - qonaqlıq, parti
-skończyć - bitirmək, başa vurmaq
-zaskoczyć - surpriz etmək
-w każdym razie - hər nəysə.. (anyway)
-dotrzeć - çatdırmaq
-bałagan - dağıntı (otaq)
-zanim - əvvəl
-ubranie/odzież - paltar
-pranie - laundry
-brudny - kirli
-dawno - uzun müddətri ki,
-patrzeć - baxmaq
-popatrz! - bəri bax!
-zbyt - çox (very)
-trzeba - /malı,məli
-śpieszyć się - tələsmək
-pośpiesz się ! - tələs !
-wróć - geri qayıtmaq
-chyba - güman edirəm ki,
-wygodny - əlverişli, rahat
-fajny - cool (görünmək)
-sądzić - düşünmək
-zamiar - niyyət
-licencjat - bakalavr dərəcəsi
-zdobyć - qazanmaq, əldə etmək
-zająć - zəbt etmək (ocup)
-witryna internetowa - vebsayt
-tak czy inaczej - hər iki halda..
-nie ma znaczenia - önəmi deyil..
-wiadomość - xəbər
-zginąć - ölmək (qəzada)
-straszny - dəhşətli (ölüm)
-zazwyczaj - adətən
-włącz + yć/ać - işə salmaq (kompyuteri)
 kiedykolwiek - nə vaxtsa
 więcej - daha çox (more)
 właściwie - həqiqətən (actually)
@@ -938,3 +823,118 @@ Nie ma za co - dəyməz..
 natychmiast - dərhal
 zjednoczyć - birləşmək
 niestety - təəssüf ki
+państwo - xanım və cənab (Mr. & Mrs.)
+kawiarnia - cafe
+pozdrawiamy - Hörmətlə,...
+aleja - prospekt
+rondo - kruq
+plac - meydan
+małpa - meymun, @ işarəsi
+kropka - nöqtə
+czasownik - fel
+latać - uçmaq
+zwiedzać - gəzmək, etmə
+śpiewać - mahnı oxumaq
+szukać - axtarmaq
+siostra - bacı
+dziadek - baba
+babcia - nənə
+mąż - ər
+żona - arvad
+małżeństwo - evlilik
+wnuczek/ka - nəvə (k/q)
+rzeczownik - isim (qrammatika)
+ciasto - tort
+cebula - soğan
+ziemniak/ kartofel - kartof
+mydło - sabun
+rodzeństwo - bacı-qardaş (sibling)
+głodny - ac
+mięso - ət
+wieprzowina - 'donuz' əti ('świnja')
+miód - bal
+zupa - sup
+złoty - pul vahidi (Polşanın)
+groszy - qəpik
+złoto - qızıl
+napoje - içkilər
+brązowy - qəhvəyi
+pomarańczowy - portağal rəngi
+szary - boz
+zwykle - adətən
+nadal - hələ də
+do zobaczenia - görüşənədək
+byłoby - olardı ...(yaxşı)
+chciałbyś - etmək istəmək (would like)
+zajęty - məşğul
+razem - birlikdə
+wystarczająco - kifayət qədər
+kanapka - sandviç
+kolejny - növbəti
+czemu/dlaczego - niyə?
+przykro mi - təəsüfləndim (xəstələnməyinə)
+mam(mieć) nadzieję - ümid varam...
+prawnik/adwokat - vəkil
+biegły - səlis (fluent)
+facet - oğlan, gənc
+przystojny - yaraşıqlı
+go/jego - onu
+ją- ondan (q)
+kubek - kruşka
+plecak - sərt çantası
+ściana - divar
+spóźnienie - gecikmə
+wysiadać - enmək, çıxmaq (maşından)
+piętro - mərtəbə
+wciąz - hələ də
+orazja - fürsət
+ćwiczyć - məşq etmək (practice)
+opowiadać - söyləmək
+kłamstwo - yalan
+kłamać - yalan danışmaq
+oszuk + ać/iwać - aldatmaq
+zeszły - keçən (il)
+wyglądać na - görünmək (yaraşıqlı)
+wszyscy - hər kəs
+wiek - yaş, əsr
+z nią/nim - onunla (q/k)
+temu - əvvəl (3 il)
+księgowy - mühasib
+poszedł - getdi
+ciesz się - şad olmaq
+jasne! - əlbəttə
+popołudnie - günorta (p.m.)
+przyjęcie - qonaqlıq, parti
+skończyć - bitirmək, başa vurmaq
+zaskoczyć - surpriz etmək
+w każdym razie - hər nəysə.. (anyway)
+dotrzeć - çatdırmaq
+bałagan - dağıntı (otaq)
+zanim - əvvəl
+ubranie/odzież - paltar
+pranie - laundry
+brudny - kirli
+dawno - uzun müddətri ki,
+patrzeć - baxmaq
+popatrz! - bəri bax!
+zbyt - çox (very)
+trzeba - /malı,məli
+śpieszyć się - tələsmək
+pośpiesz się ! - tələs !
+wróć - geri qayıtmaq
+chyba - güman edirəm ki,
+wygodny - əlverişli, rahat
+fajny - cool (görünmək)
+sądzić - düşünmək
+zamiar - niyyət
+licencjat - bakalavr dərəcəsi
+zdobyć - qazanmaq, əldə etmək
+zająć - zəbt etmək (ocup)
+witryna internetowa - vebsayt
+tak czy inaczej - hər iki halda..
+nie ma znaczenia - önəmi deyil..
+wiadomość - xəbər
+zginąć - ölmək (qəzada)
+straszny - dəhşətli (ölüm)
+zazwyczaj - adətən
+włącz + yć/ać - işə salmaq (kompyuteri)
