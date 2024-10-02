@@ -1,210 +1,3 @@
-over – təkrar
-"She kept saying this over and over again." - "O, bunu dəfələrlə təkrar edirdi."
-
-such – belə
-"He is such an annoying person." - "O, belə əsəbi bir insandır."
-
-again – yenidən
-"Can we play that game again?" - "O oyunu yenidən oynaya bilərikmi?"
-
-few – bir neçə
-"Just a few more errands and I’m done!" - "Bir neçə tapşırıq qaldı və işim bitdi!"
-
-case – vəziyyət
-"What an interesting case you are working on now!" - "Sənin üzərində çalışdığın nə maraqlı bir vəziyyətdir!"
-
-most – ən çox
-"That’s the most interesting story I’ve ever heard." - "Bu, mənim eşitdiyim ən maraqlı hekayədir."
-
-week – həftə
-"I had a rough week." - "Çətin bir həftə keçirdim."
-
-company – şirkət
-"Will you keep me company?" - "Mənə yoldaşlıq edərsən?"
-
-where – harada
-"Where are we going?" - "Biz hara gedirik?"
-
-system – sistem
-"What’s wrong with the airport’s system?" - "Aeroportun sistemi ilə nə problem var?"
-
-each – hər biri
-"Can you give each of them an apple?" - "Onların hər birinə bir alma verə bilərsənmi?"
-
-right – haqlı
-"I’m right this time." - "Bu dəfə mən haqlıyam."
-
-program – proqram
-"This community program for teens is really helpful." - "Bu gənclər üçün icma proqramı çox faydalıdır."
-
-hear – eşitmək
-"Did you hear that?" - "Bunu eşitdinmi?"
-
-so – belə
-"I’m so sleepy." - "Mən çox yuxuluyam."
-
-question – sual
-"I have a question for you." - "Sənin üçün bir sualım var."
-
-during – zamanı
-"During the session I saw him fall asleep." - "Sessiya zamanı onun yuxuya getdiyini gördüm."
-
-work – işləmək
-"I have to work this weekend." - "Bu həftə sonu işləməliyəm."
-
-play - oynamaq
-We can play soccer next weekend instead. - Biz növbəti həftə sonu futbol oynaya bilərik.
-
-government - hökumət
-I hope the government does something about the poverty in this country. - Ümid edirəm ki, hökumət bu ölkədəki yoxsulluqla bağlı nəsə edəcək.
-
-run - qaçmaq
-If you see a bear here run for your life. - Əgər burada ayı görsəniz, həyatınızı qurtarmaq üçün qaçın.
-
-small - kiçik
-I have a small favor to ask you. - Səndən kiçik bir xahişim var.
-
-number - nömrə
-I have a number of favors to ask you. - Səndən bir neçə xahişim var.
-
-off - söndürmək
-Please turn off the television. - Zəhmət olmasa televizoru söndür.
-
-always - həmişə
-I always bring pepper spray with me. - Mən həmişə özümlə bibər spreyi gətirirəm.
-
-move - hərəkət etmək
-Let’s move on to the next tourist spot. - Gəlin növbəti turizm məkanına keçək.
-
-like - sevmək
-I really like you. - Mən səni həqiqətən sevirəm.
-
-night - gecə
-The night is young. - Gecə gəncdir.
-
-live - yaşamaq
-I’m going to live like there’s no tomorrow. - Mən elə yaşamağa gedirəm ki, sanki sabah yoxdur.
-
-Mr. - cənab
-Mr. Morris is here. - Cənab Morris buradadır.
-
-point - nöqtə
-You have a point. - Sənin bir nöqtən var.
-
-believe - inanmaq
-I believe in you. - Mən sənə inanıram.
-
-hold - tutmaq
-Just hold my hand. - Sadəcə əlimi tut.
-
-today - bu gün
-I’m going to see you today. - Mən bu gün səni görəcəm.
-
-bring - gətirmək
-Please bring a pen. - Zəhmət olmasa bir qələm gətir.
-
-happen - baş vermək
-What will happen if you don’t submit your report on time? - Hesabatınızı vaxtında təqdim etməsəniz nə baş verəcək?
-
-next - növbəti
-This is the next best thing. - Bu, növbəti ən yaxşı şeydir.
-
-without - olmadan
-I can’t live without my phone. - Telefonsuz yaşaya bilmirəm.
-
-before - əvvəl
-Before I go to bed I always wash my face. - Yatağa getməzdən əvvəl həmişə üzümü yuyuram.
-
-large - böyük
-There’s a large amount of data online about that topic. - İnternetdə o mövzu haqqında böyük miqdarda məlumat var.
-
-all - hamısı
-That’s all I know about Dinosaurs. - Mən dinozavrlar haqqında bildiyim budur.
-
-million - milyon
-I have a million questions about this book. - Bu kitab haqqında milyon sualım var.
-
-must - məcbur
-We must watch this movie together. - Biz bu filmi birlikdə izləməliyik.
-
-home - ev
-Can we go home now? - İndi evə gedə bilərikmi?
-
-under - altında
-I hid it under my bed. - Mən onu yatağımın altında gizlətdim.
-
-water - su
-I filled the tub with water. - Mən vannayı su ilə doldurdum.
-
-room - otaq
-His room is at the end of the corridor. - Onun otağı dəhlizin sonunda yerləşir.
-
-write - yazmaq
-Can you write me a prescription for this? - Bunun üçün mənə resept yaza bilərsinizmi?
-
-mother - ana
-His mother is a very lovely woman. - Onun anası çox gözəl qadındır.
-
-area - sahə
-This area of this house needs to be fixed. - Bu evin bu sahəsi təmir olunmalıdır.
-
-national - milli
-That virus has become a national concern. - Həmin virus milli narahatlıq halına gəlib.
-
-money - pul
-She needs money to buy her medicine. - O, dərmanlarını almaq üçün pula ehtiyacı var.
-
-story - hekayə
-She shared her story to the media. - O, hekayəsini mətbuatla bölüşdü.
-
-young - gənc
-She is so young and so hopeful. - O, çox gənc və çox ümidlidir.
-
-fact - fakt
-It’s a fact: shopping can improve your mood. - Bu bir faktdır: alış-veriş əhvalınızı yaxşılaşdıra bilər.
-
-month - ay
-It’s that time of the month! - Ayın həmin vaxtıdır!
-
-different - fərqli
-Just because she’s different it doesn’t mean she’s bad. - Onun fərqli olması onu pis etmək demək deyil.
-
-lot - çox
-You have a lot of explaining to do. - Sənin çox izahat verməlisən.
-
-right - sağ
-Turn right when you reach the corner. - Küncə çatanda sağa dön.
-
-study - oxumaq
-Let’s study our English lessons together. - Gəlin ingilis dərslərimizi birlikdə oxuyaq.
-
-book - kitab
-Can I borrow your English book? - İngilis kitabını götürə bilərəmmi?
-
-eye - göz
-She has the pink eye. - Onun gözləri qırmızıdır.
-
-job - iş
-I love my job. - Mən işimi sevirəm.
-
-word - söz
-Describe yourself in one word. - Özünü bir sözlə təsvir et.
-
-though - baxmayaraq ki
-Though you are angry now I’m sure you will forget about this later. - İndi qəzəblisiniz, amma əminəm ki, sonradan bunu unudacaqsınız.
-
-business - iş
-His business is thriving. - Onun işi inkişaf edir.
-
-issue - məsələ
-This is not an issue for me. - Bu mənim üçün problem deyil.
-
-side - tərəf
-Whose side are you on anyway? - Siz hər halda kimin tərəfindəsiniz?
-
-kind - mehriban
-Always be kind even to strangers. - Həmişə yadlara belə mehriban olun.
-
 four - dörd
 There are four seasons in a year. - Bir ildə dörd fəsil var.
 
@@ -3003,3 +2796,210 @@ against – qarşı
 
 place – yer
 "This place is wonderful!" - "Bu yer möhtəşəmdir!"
+
+over – təkrar
+"She kept saying this over and over again." - "O, bunu dəfələrlə təkrar edirdi."
+
+such – belə
+"He is such an annoying person." - "O, belə əsəbi bir insandır."
+
+again – yenidən
+"Can we play that game again?" - "O oyunu yenidən oynaya bilərikmi?"
+
+few – bir neçə
+"Just a few more errands and I’m done!" - "Bir neçə tapşırıq qaldı və işim bitdi!"
+
+case – vəziyyət
+"What an interesting case you are working on now!" - "Sənin üzərində çalışdığın nə maraqlı bir vəziyyətdir!"
+
+most – ən çox
+"That’s the most interesting story I’ve ever heard." - "Bu, mənim eşitdiyim ən maraqlı hekayədir."
+
+week – həftə
+"I had a rough week." - "Çətin bir həftə keçirdim."
+
+company – şirkət
+"Will you keep me company?" - "Mənə yoldaşlıq edərsən?"
+
+where – harada
+"Where are we going?" - "Biz hara gedirik?"
+
+system – sistem
+"What’s wrong with the airport’s system?" - "Aeroportun sistemi ilə nə problem var?"
+
+each – hər biri
+"Can you give each of them an apple?" - "Onların hər birinə bir alma verə bilərsənmi?"
+
+right – haqlı
+"I’m right this time." - "Bu dəfə mən haqlıyam."
+
+program – proqram
+"This community program for teens is really helpful." - "Bu gənclər üçün icma proqramı çox faydalıdır."
+
+hear – eşitmək
+"Did you hear that?" - "Bunu eşitdinmi?"
+
+so – belə
+"I’m so sleepy." - "Mən çox yuxuluyam."
+
+question – sual
+"I have a question for you." - "Sənin üçün bir sualım var."
+
+during – zamanı
+"During the session I saw him fall asleep." - "Sessiya zamanı onun yuxuya getdiyini gördüm."
+
+work – işləmək
+"I have to work this weekend." - "Bu həftə sonu işləməliyəm."
+
+play - oynamaq
+We can play soccer next weekend instead. - Biz növbəti həftə sonu futbol oynaya bilərik.
+
+government - hökumət
+I hope the government does something about the poverty in this country. - Ümid edirəm ki, hökumət bu ölkədəki yoxsulluqla bağlı nəsə edəcək.
+
+run - qaçmaq
+If you see a bear here run for your life. - Əgər burada ayı görsəniz, həyatınızı qurtarmaq üçün qaçın.
+
+small - kiçik
+I have a small favor to ask you. - Səndən kiçik bir xahişim var.
+
+number - nömrə
+I have a number of favors to ask you. - Səndən bir neçə xahişim var.
+
+off - söndürmək
+Please turn off the television. - Zəhmət olmasa televizoru söndür.
+
+always - həmişə
+I always bring pepper spray with me. - Mən həmişə özümlə bibər spreyi gətirirəm.
+
+move - hərəkət etmək
+Let’s move on to the next tourist spot. - Gəlin növbəti turizm məkanına keçək.
+
+like - sevmək
+I really like you. - Mən səni həqiqətən sevirəm.
+
+night - gecə
+The night is young. - Gecə gəncdir.
+
+live - yaşamaq
+I’m going to live like there’s no tomorrow. - Mən elə yaşamağa gedirəm ki, sanki sabah yoxdur.
+
+Mr. - cənab
+Mr. Morris is here. - Cənab Morris buradadır.
+
+point - nöqtə
+You have a point. - Sənin bir nöqtən var.
+
+believe - inanmaq
+I believe in you. - Mən sənə inanıram.
+
+hold - tutmaq
+Just hold my hand. - Sadəcə əlimi tut.
+
+today - bu gün
+I’m going to see you today. - Mən bu gün səni görəcəm.
+
+bring - gətirmək
+Please bring a pen. - Zəhmət olmasa bir qələm gətir.
+
+happen - baş vermək
+What will happen if you don’t submit your report on time? - Hesabatınızı vaxtında təqdim etməsəniz nə baş verəcək?
+
+next - növbəti
+This is the next best thing. - Bu, növbəti ən yaxşı şeydir.
+
+without - olmadan
+I can’t live without my phone. - Telefonsuz yaşaya bilmirəm.
+
+before - əvvəl
+Before I go to bed I always wash my face. - Yatağa getməzdən əvvəl həmişə üzümü yuyuram.
+
+large - böyük
+There’s a large amount of data online about that topic. - İnternetdə o mövzu haqqında böyük miqdarda məlumat var.
+
+all - hamısı
+That’s all I know about Dinosaurs. - Mən dinozavrlar haqqında bildiyim budur.
+
+million - milyon
+I have a million questions about this book. - Bu kitab haqqında milyon sualım var.
+
+must - məcbur
+We must watch this movie together. - Biz bu filmi birlikdə izləməliyik.
+
+home - ev
+Can we go home now? - İndi evə gedə bilərikmi?
+
+under - altında
+I hid it under my bed. - Mən onu yatağımın altında gizlətdim.
+
+water - su
+I filled the tub with water. - Mən vannayı su ilə doldurdum.
+
+room - otaq
+His room is at the end of the corridor. - Onun otağı dəhlizin sonunda yerləşir.
+
+write - yazmaq
+Can you write me a prescription for this? - Bunun üçün mənə resept yaza bilərsinizmi?
+
+mother - ana
+His mother is a very lovely woman. - Onun anası çox gözəl qadındır.
+
+area - sahə
+This area of this house needs to be fixed. - Bu evin bu sahəsi təmir olunmalıdır.
+
+national - milli
+That virus has become a national concern. - Həmin virus milli narahatlıq halına gəlib.
+
+money - pul
+She needs money to buy her medicine. - O, dərmanlarını almaq üçün pula ehtiyacı var.
+
+story - hekayə
+She shared her story to the media. - O, hekayəsini mətbuatla bölüşdü.
+
+young - gənc
+She is so young and so hopeful. - O, çox gənc və çox ümidlidir.
+
+fact - fakt
+It’s a fact: shopping can improve your mood. - Bu bir faktdır: alış-veriş əhvalınızı yaxşılaşdıra bilər.
+
+month - ay
+It’s that time of the month! - Ayın həmin vaxtıdır!
+
+different - fərqli
+Just because she’s different it doesn’t mean she’s bad. - Onun fərqli olması onu pis etmək demək deyil.
+
+lot - çox
+You have a lot of explaining to do. - Sənin çox izahat verməlisən.
+
+right - sağ
+Turn right when you reach the corner. - Küncə çatanda sağa dön.
+
+study - oxumaq
+Let’s study our English lessons together. - Gəlin ingilis dərslərimizi birlikdə oxuyaq.
+
+book - kitab
+Can I borrow your English book? - İngilis kitabını götürə bilərəmmi?
+
+eye - göz
+She has the pink eye. - Onun gözləri qırmızıdır.
+
+job - iş
+I love my job. - Mən işimi sevirəm.
+
+word - söz
+Describe yourself in one word. - Özünü bir sözlə təsvir et.
+
+though - baxmayaraq ki
+Though you are angry now I’m sure you will forget about this later. - İndi qəzəblisiniz, amma əminəm ki, sonradan bunu unudacaqsınız.
+
+business - iş
+His business is thriving. - Onun işi inkişaf edir.
+
+issue - məsələ
+This is not an issue for me. - Bu mənim üçün problem deyil.
+
+side - tərəf
+Whose side are you on anyway? - Siz hər halda kimin tərəfindəsiniz?
+
+kind - mehriban
+Always be kind even to strangers. - Həmişə yadlara belə mehriban olun.
