@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+	<!-- basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- mobile metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	<!-- site metas -->
+	<title>Anketler.info - Seçim anketi sonuçları</title>
+	<meta name="description" content="2023 Cumhurbaşkanlığı online seçim anketi sonucu">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.anketler.info/">
+	<meta property="og:locale" content="tr_TR">
+	<meta property="og:site_name" content="Anketler.info">
+	<meta property="og:title" content="Anketler.info - Seçim anketi sonuçları">
+	<meta property="og:description" content="2023 Cumhurbaşkanlığı online seçim anketi sonucu">
+	<meta property="og:image" content="https://www.anketler.info/images/og-image.jpg">
+	<meta property="fb:app_id" content="595646712480664">
+	<meta property="fb:pages" content="113982751531362">
+	<!-- bootstrap css -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<!-- style css -->
+	<link rel="stylesheet" href="/css/style.css">
+	<!-- Responsive-->
+	<link rel="stylesheet" href="/css/responsive.css">
+	<!-- fevicon -->
+	<link rel="icon" href="/images/favicon.png" type="image/gif" />
+	<!-- Tweaks for older IEs-->
+	<link rel="stylesheet" href="/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+      <style>
+
+    .my-list > li {
+    margin: 0px;
+    padding: 0px;
+    list-style: decimal;
+}
+      </style>
+   </head>
+   <!-- body -->
+   <body class="main-layout inner_page">
+      <!-- loader  -->
+      <div class="loader_bg">
+         <div class="loader"><img src="images/loading.gif" alt="#"/></div>
+      </div>
+      <!-- end loader -->
+     
+         <!-- header -->
+         <%- include("partials/_menu") %>
+      <!-- end header inner -->
+      <!-- about -->
+      <div class="container-fluid">
+		<div class="row">
+
+			<div class="col-lg-2 col-md-3 col-sm-4 col-12 bg-light" id="sidebar-left">
+        <a href="https://www.youtube.com/watch?v=hw1BBtUkdzA">
+					  <img src="/images/vertical-banner.gif" alt="Vertical Banner" >
+					</a>
+			</div>
+
+			<div class="col-lg-8 col-md-6 col-sm-4 col-12">
+        <div class="col-md-12" style="text-align: center;">
+          <a href="https://www.youtube.com/watch?v=hw1BBtUkdzA" >
+          <img src="/images/banner1.gif" alt="Top Banner">
+        </a>
+       </div>
+      <div class="container" id="firstcontainer">
+		<h2 style="margin-bottom: 10px;"><b> 2023 Cumhurbaşkanlığı seçim anketi - <u>Sonuçlar</u></b></h2>
+		<ol class="my-list">
+			<% let totalVotes = 0; %>
+			<% for (let i = 0; i < candidates.length; i++) { %>
+				<% totalVotes += candidates[i].followers.length; %>
+			<% } %>
+			<% for (let i = 0; i < candidates.length; i++) { %>
+				<% let votePercentage = (candidates[i].followers.length / totalVotes) * 100; %>
+				<li><%= candidates[i].fullname %> (<%= candidates[i].followers.length %> oy)
+					<div class="chart" style="width: <%= (votePercentage + 7).toFixed(1) %>%;">
+						<%= votePercentage.toFixed(1) %>%</div>
+				</li>
+			<% } %>
+		</ol>
+		<p><b>Toplam ankete katılanların sayısı: <u><%= totalVotes %></u></b></p>
+	</div>
+
+	<div class="col-md-12" style="text-align: center;" id="iller-banner">
+				  <a href="/illere-gore-sonuclar">
+			<img src="/images/illere-gore-secim-anketi-sonucu-top.jpg" alt="iller banner" style="margin-top: 50px; margin-bottom: -20px;">
+		  </a>
+	</div>
+
+  <div class="col-md-12" style="background-color: #f2f2f2; padding: 10px; text-align: center; margin-top: 60px; margin-left: auto; margin-right: auto;">
+    <h2 style="font-size: 24px;"><strong><em style="color: #424242;">Diğer anketler</em></strong></h2>
+  </div>
+
+  <div class="col-md-12" style="margin-bottom: 50px">
+    <div id="news-slider" class="owl-carousel" style="margin-top: 0px;">
+  <% for (poll of polls) { %>
+      <div class="post-slide">
+        <div class="post-img">
+          <img src="<%= poll.options[0].picture %>" alt="<%= poll.options[0].title %>" style="height:122px; width: 122px">
+          <img src="<%= poll.options[1].picture %>" alt="<%= poll.options[1].title %>" style="height:122px; width: 122px">
+  <a href="/polls/<%= poll.pollname %>" class="over-layer"><i class="fa fa-link"></i></a>
+        </div>
+        <div class="post-content">
+          <h3 class="post-title" style="text-align: center;">
+            <a href="/polls/<%= poll.pollname %>"><%= poll.pollquestion %></a>
+          </h3>
+        </div>
+      </div>
+<% } %>
+    </div>
+  </div>
+
+<div class="col-md-12" style="text-align: center;">
+<a href="https://www.youtube.com/watch?v=hw1BBtUkdzA">
+  <img src="/images/banner1.gif" alt="Top Banner" style="margin-top: 50px;">
+  </a>
+</div>
+
+			</div>
+
+			<div class="col-lg-2 col-md-3 col-sm-4 col-12 bg-light" id="sidebar-right">
+        <a href="/illere-gore-sonuclar">
+					  <img src="/images/illere-gore-secim-anketi-sonucu.jpg" alt="Vertical Banner">
+					</a>
+			</div>
+
+		</div>
+	</div>
+	<script>
+		window.onload = function() {
+		   if (window.location.search.includes('success=true')) {
+			Swal.fire({
+				   title: 'Başarıyla oy kullandınız !',
+				   icon: 'success'
+			   });
+		   }
+		}
+	 </script>
+	 
+      <!-- end about -->
+      <!-- end footer -->
+      <%- include("partials/_footer") %>

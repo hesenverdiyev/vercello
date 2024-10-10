@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+	<!-- basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- mobile metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	<!-- site metas -->
+	<title>Anketler.info - Üye Ol</title>
+	<meta name="description" content="Üye ol, kayıt ol">
+   <meta name="robots" content="noindex">
+	<!-- bootstrap css -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<!-- style css -->
+	<link rel="stylesheet" href="/css/style.css">
+	<!-- Responsive-->
+	<link rel="stylesheet" href="/css/responsive.css">
+	<!-- fevicon -->
+	<link rel="icon" href="/images/favicon.png" type="image/gif" />
+	<!-- Tweaks for older IEs-->
+	<link rel="stylesheet" href="/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+   <style>
+      .text-muted {
+    color: #505050!important;
+}
+      input[name="email"] {
+         border: 1px solid #6b6b6b !important;
+      }
+
+      .btn-outline-secondary {
+         color: #ffffff;
+         background-color: #AA575B;
+         border-color: #6b6b6b;
+      }
+
+      input[name="otp"] {
+         border: 1px solid #AA575B;
+
+      }
+
+      #button-addon3 {
+         color: #ffffff;
+         background-color: #AA575B;
+      }
+
+      input[name="otp"]:focus,
+      input[name="email"]:focus {
+         border: 1px solid #6b6b6b !important;
+
+      }
+   </style>
+</head>
+<!-- body -->
+
+<body class="main-layout inner_page">
+   <!-- loader  -->
+   <div class="loader_bg">
+      <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+   </div>
+   <!-- end loader -->
+
+   <!-- header -->
+   <%- include("partials/_menu") %>
+      <!-- end header inner -->
+      <!-- contact -->
+      <div class="contact">
+         <div class="container" id="firstcontainer">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage text_align_center">
+                     <h2>Üye Ol</h2>
+                  </div>
+               </div>
+               
+               <div class="col-md-10" style="margin-left:auto; margin-right:auto; display: none;">
+                  <button id="facebook-login" class="btn btn-primary btn-block py-2 btn-facebook"><i class="fa fa-facebook" aria-hidden="true" style="margin-right: 10px;"></i>Facebook ile Üye Ol</button>
+               </div>
+
+               <div class="form-group col-lg-12 mx-auto d-flex align-items-center my-4" style="display: none !important;">
+						<div class="border-bottom w-100 ml-5"></div>
+						<span class="px-2 small text-muted font-weight-bold text-muted" style="color:#5050">VEYA</span>
+						<div class="border-bottom w-100 mr-5"></div>
+					</div>
+
+               <div class="col-md-10" style="margin-left:auto; margin-right:auto;">
+                  <form id="request" class="main_form" action="users/register" method="POST">
+                     <div class="row">
+                        <div class="col-md-12" style="margin-bottom: 15px;">
+                           <select class="form-control" id="cityfrom" name="cityfrom">
+                           <option value="" selected disabled>Kayıtlı olduğunuz ili seçin</option>
+                           <option value="adana">Adana</option>
+                           <option value="adiyaman">Adıyaman</option>
+                           <option value="afyonkarahisar">Afyonkarahisar</option>
+                           <option value="agri">Ağrı</option>
+                           <option value="aksaray">Aksaray</option>
+                           <option value="amasya">Amasya</option>
+                           <option value="ankara">Ankara</option>
+                           <option value="antalya">Antalya</option>
+                           <option value="ardahan">Ardahan</option>
+                           <option value="artvin">Artvin</option>
+                           <option value="aydin">Aydın</option>
+                           <option value="balikesir">Balıkesir</option>
+                           <option value="bartin">Bartın</option>
+                           <option value="batman">Batman</option>
+                           <option value="bayburt">Bayburt</option>
+                           <option value="bilecik">Bilecik</option>
+                           <option value="bingol">Bingöl</option>
+                           <option value="bitlis">Bitlis</option>
+                           <option value="bolu">Bolu</option>
+                           <option value="burdur">Burdur</option>
+                           <option value="bursa">Bursa</option>
+                           <option value="canakkale">Çanakkale</option>
+                           <option value="cankiri">Çankırı</option>
+                           <option value="corum">Çorum</option>
+                           <option value="denizli">Denizli</option>
+                           <option value="diyarbakir">Diyarbakır</option>
+                           <option value="duzce">Düzce</option>
+                           <option value="edirne">Edirne</option>
+                           <option value="elazig">Elazığ</option>
+                           <option value="erzincan">Erzincan</option>
+                           <option value="erzurum">Erzurum</option>
+                           <option value="eskisehir">Eskişehir</option>
+                           <option value="gaziantep">Gaziantep</option>
+                           <option value="giresun">Giresun</option>
+                           <option value="gumushane">Gümüşhane</option>
+                           <option value="hakkari">Hakkari</option>
+                           <option value="hatay">Hatay</option>
+                           <option value="igdir">Iğdır</option>
+                           <option value="isparta">Isparta</option>
+                           <option value="istanbul">Istanbul</option>
+                           <option value="izmir">Izmir</option>
+                           <option value="karabuk">Karabük</option>
+                           <option value="karaman">Karaman</option>
+                           <option value="kars">Kars</option>
+                           <option value="kastamonu">Kastamonu</option>
+                           <option value="kayseri">Kayseri</option>
+                           <option value="kilis">Kilis</option>
+                           <option value="kirikkale">Kırıkkale</option>
+                           <option value="kirklareli">Kırklareli</option>
+                           <option value="kirsehir">Kırşehir</option>
+                           <option value="kocaeli">Kocaeli</option>
+                           <option value="konya">Konya</option>
+                           <option value="kutahya">Kütahya</option>
+                           <option value="malatya">Malatya</option>
+                           <option value="manisa">Manisa</option>
+                           <option value="kahramanmaras">Kahramanmaraş</option>
+                           <option value="mardin">Mardin</option>
+                           <option value="mersin">Mersin</option>
+                           <option value="mugla">Muğla</option>
+                           <option value="mus">Muş</option>
+                           <option value="nevsehir">Nevşehir</option>
+                           <option value="nigde">Niğde</option>
+                           <option value="ordu">Ordu</option>
+                           <option value="osmaniye">Osmaniye</option>
+                           <option value="rize">Rize</option>
+                           <option value="sakarya">Sakarya</option>
+                           <option value="samsun">Samsun</option>
+                           <option value="siirt">Siirt</option>
+                           <option value="sinop">Sinop</option>
+                           <option value="sivas">Sivas</option>
+                           <option value="sirnak">Şırnak</option>
+                           <option value="tekirdag">Tekirdağ</option>
+                           <option value="tokat">Tokat</option>
+                           <option value="trabzon">Trabzon</option>
+                           <option value="tunceli">Tunceli</option>
+                           <option value="sanliurfa">Şanlıurfa</option>
+                           <option value="usak">Uşak</option>
+                           <option value="van">Van</option>
+                           <option value="yalova">Yalova</option>
+                           <option value="yozgat">Yozgat</option>
+                           <option value="zonguldak">Zonguldak</option>
+                         </select>
+                        </div>
+                        <div class="input-group mb-3" style="padding-left: 15px; padding-right: 15px;">
+                           <input type="text" name="email" class="form-control" placeholder="Email"
+                              aria-describedby="button-addon2">
+                           <div class="input-group-append">
+                              <button class="btn btn-outline-secondary" id="button-addon2" action="users/otpcodesend"
+                                 method="POST">doğrula</button>
+                           </div>
+                        </div>
+                        <div class="input-group mb-3" style="padding-left: 15px; width: 50%; display: none;" id="otpprocessplace">
+                           <input type="text" name="otp" class="form-control"
+                              placeholder="Doğrulama kodu" aria-describedby="button-addon3">
+                           <div class="input-group-append">
+                              <button class="btn btn-outline-secondary" id="button-addon3" style="display: none;"></button>
+                           </div>
+                        </div>
+                        <div class="col-md-12">
+                           <div style="display: none;" class="alert alert-danger" id="email"></div>
+                        </div>
+                        <div class="col-md-12">
+                           <input class="form_control" placeholder="Şifre" type="password" name="password">
+                        </div>
+                        <div class="col-md-12">
+                           <div style="display: none;" class="alert alert-danger" id="password"></div>
+                        </div>
+                        <div class="col-md-12">
+                           <div class="group_form">
+                              <input id="submitButton" style="width: 80px; height: 45px;" type="submit" value="Üye Ol"
+                                 disabled />
+                           </div>
+                        </div>
+                        <div class="col-md-12">
+                           <div class="group_form"> 
+                             <a href="/login" style="margin-top: 20px;"><u>Zaten üye misin? Giriş yap</u></a>
+                           </div>
+                         </div>
+                     </div>
+                  </form>
+                 
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <script>
+         const form = document.querySelector('form')
+         const emailError = document.querySelector('#email')
+         const passwordError = document.querySelector('#password')
+
+        
+
+         form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            emailError.textContent = "";
+            passwordError.textContent = "";
+            
+            emailError.style.display = "none"
+            passwordError.style.display = "none"
+           
+
+            const email = form.email.value
+            const password = form.password.value
+            const cityfrom = document.getElementById('cityfrom').value;
+            
+
+            try {
+               const res = await fetch('users/register', {
+                  method: "POST",
+                  body: JSON.stringify({cityfrom, email, password  }),
+                  headers: { "Content-Type": "application/json" }
+               })
+
+               const data = await res.json();
+
+
+               if (data) {
+
+                  if (data.email) {
+                     emailError.textContent = data.email
+                     emailError.style.display = "block"
+                  }
+
+                  if (data.password) {
+                     passwordError.textContent = data.password
+                     passwordError.style.display = "block"
+                  }
+
+
+
+               }
+
+               if (data.message === 'success') {
+                  Swal.fire({
+                     title: 'Başarıyla kaydoldunuz!',
+                     icon: 'success'
+                  });
+                  location.assign(data.returnTo);
+               }
+
+            } catch (err) {
+               console.log("ERR::" + err);
+            }
+         })
+      </script>
+
+      <script>
+
+         const verifybutton = document.getElementById('button-addon2');
+         
+
+         verifybutton.addEventListener("click", async (e) => {
+            e.preventDefault();
+
+            document.getElementById('otpprocessplace').style.display = 'flex';
+            verifybutton.style.backgroundColor = "#6c757d";
+
+            const email = form.email.value;
+
+            try {
+               const res = await fetch('/users/otpcodesend', {
+                  method: "POST",
+                  body: JSON.stringify({ email }),
+                  headers: { "Content-Type": "application/json" }
+               })
+
+               const data = await res.json();
+
+               console.log("DATA", data)
+
+            } catch (err) {
+               console.log("ERR::", err)
+            }
+         })
+      </script>
+
+<script>
+   const citySelect = document.getElementById('cityfrom');
+   const otpinputarea = document.querySelector('.form-control[name="otp"]');
+   const otpmessage= document.getElementById('button-addon3');
+   const submitbutton = document.getElementById("submitButton");
+          
+   
+   var type_timer;
+   var finished_writing_interval = 1500;
+   
+   
+   //Start timeout when user start typing
+   otpinputarea.addEventListener('keyup', function () {
+  clearTimeout(type_timer);
+  type_timer = setTimeout(finished_typing, finished_writing_interval);
+});
+   
+   //Clear timeout on key down event
+   otpinputarea.addEventListener('keydown', function () {
+     clearTimeout(type_timer);
+   });
+   
+   //This function runs when user has finished writing in input
+ function finished_typing () {
+      otpverification();
+      
+   }
+   
+   
+   async function otpverification() {
+       
+       const email = form.email.value;
+       let otp = form.otp.value;
+   
+      
+          const res = await fetch('/users/otpverify', {
+             method: "POST",
+             body: JSON.stringify({ email,otp }),
+             headers: { "Content-Type": "application/json" }
+          })
+   
+          const data = await res.json();
+   
+          console.log("DATA2", data)
+   
+          if (data.exists) {
+           otpmessage.style.display = 'inline-block';
+           otpinputarea.style.borderColor = "green";
+           otpmessage.style.backgroundColor = "green";
+           otpmessage.textContent = "doğru"
+           if (citySelect.value !== '') {
+           submitbutton.disabled = false;
+           }
+          } else {
+              otpmessage.style.display = 'inline-block';
+              otpmessage.style.backgroundColor = "red";
+              otpmessage.textContent = "yanlış / geçersiz"
+              otpmessage.style.backgroundColor = "red";
+              setTimeout(function(){
+               otpinputarea.style.borderColor = "#AA575B";
+               otpmessage.style.display = 'none';
+   
+               
+              },2000)
+          }
+   
+   
+    };
+   </script>
+
+<script>
+otpinputarea.addEventListener('paste', async (event) => {
+   const email = form.email.value;
+       let otp = event.clipboardData.getData('text');
+   
+      
+          const res = await fetch('/users/otpverify', {
+             method: "POST",
+             body: JSON.stringify({ email,otp }),
+             headers: { "Content-Type": "application/json" }
+          })
+   
+          const data = await res.json();
+   
+          console.log("DATA2", data)
+   
+          if (data.exists) {
+           otpmessage.style.display = 'inline-block';
+           otpinputarea.style.borderColor = "green";
+           otpmessage.style.backgroundColor = "green";
+           otpmessage.textContent = "doğru"
+           if (citySelect.value !== '') {
+           submitbutton.disabled = false;
+           }
+          } else {
+              otpmessage.style.display = 'inline-block';
+              otpmessage.style.backgroundColor = "red";
+              otpmessage.textContent = "yanlış / geçersiz"
+              otpmessage.style.backgroundColor = "red";
+              setTimeout(function(){
+               otpinputarea.style.borderColor = "#AA575B";
+               otpmessage.style.display = 'none';
+   
+               
+              },2000)
+          }
+
+
+})
+
+</script>
+
+
+
+      <script>
+         citySelect.addEventListener('change', function(){
+            if(otpmessage.textContent === "doğru"){
+               submitbutton.disabled = false;
+            }
+         });
+         const passwordinputarea = document.querySelector('.form-control[name="password"]');
+         passwordinputarea.addEventListener('keyup',function(){
+            if(otpmessage.textContent === "doğru"){
+               submitbutton.disabled = false;
+            }
+         });
+      </script>
+       <script>
+         const facebookLoginButton = document.getElementById('facebook-login');
+         facebookLoginButton.addEventListener('click', () => {
+           window.location.href = 'https://www.facebook.com/v13.0/dialog/oauth?client_id=595646712480664&redirect_uri=https://www.anketler.info/srv/service/social/Facebook/callback/&scope=email,user_location,user_hometown';
+         });
+       </script>
+      <!-- end contact -->
+      <!-- end footer -->
+      <%- include("partials/_footer") %>
